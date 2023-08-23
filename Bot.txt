@@ -1,83 +1,35 @@
-How to troubleshoot problems that occur when you start or use Word
-Summary
-This article describes how to troubleshoot problems that may occur when you start or use Microsoft Word. Use the following methods in the order in which they are presented. If you try one of these methods and it does not help, go to the next method.
-
-Resolution
-Verify or install the latest updates
-You might have to set Windows Update to automatically download and install recommended updates. Installing any important, recommended, and optional updates can frequently correct problems by replacing out-of-date files and fixing vulnerabilities. To install the latest Microsoft Office updates, see Update Office and your computer with Microsoft Update.
-
-For list of the latest Office updates, see Office Updates. If your issue is not resolved after you install the latest Windows and Office updates, go to method 2.
-
-It's a good idea to make sure that your computer has the latest updates installed for Windows. Updates often fix software problems. Before you use any of the following methods, try first to install updates. After you install the updates, restart your computer, and then start Word.
-
-Troubleshoot problems that occur when you start Word
-IMPORTANT: Follow the steps in this section carefully. Serious problems might occur if you modify the registry incorrectly. Before you modify it, back up the registry in case there are problems and you need to restore it later.
-
-Method 1: Insert your document into another file
-The final paragraph mark in a Word document contains information about the document. If the document is damaged, you may be able to retrieve the text of the document if you can omit this final paragraph mark.
-
-To access a document but leave its final paragraph mark behind, follow these steps:
-
-Click File > New > Blank Document.
-
-On the Insert tab, click Object, and then click Text from File.
-
-Select the file that you want to open and insert, and then click Insert.
-
-Method 2: Start Word by using the /a switch
-The /a switch is a troubleshooting tool that is used to determine where a problem may exist in Word. The /a switch prevents add-ins and global templates from being loaded automatically. The /a switch also locks the settings files to prevent it from being read or modified. To start Word by using the /a switch, follow these steps:
-
-Click Start > Search, then type "Run" and press Enter.
-
-In the Run popup window, type "winword /a", and press Enter.
-
-For more information about the /a switch, see Description of the "/a" startup switch in Word.
-
-
-If the problem does not occur when you start Word by using the /a switch, try the next method to determine the source of the problem.
- 
-
-Method 3: Delete the Word Data registry subkey
-Most of the frequently used options in Word are stored in the Word Data registry subkey. A common troubleshooting step is to delete the Word Data registry subkey. When you restart Word, the program rebuilds the Word Data registry key by using the default settings.
-
-NOTE: When you delete the Word Data registry subkey, Word resets several options to their default settings. For example, Word resets the "most recently used file" list on the File menu. Also, Word resets many settings that you customize in the Options popup window.
-
-IMPORTANT: Follow the steps in this section carefully. Serious problems might occur if you modify the registry incorrectly. Before you modify it, back up the registry in case there are problems and you need to restore it later.
-
-To delete the Word Data registry subkey, follow these steps:
-
-Exit all Office programs.
-
-Type "regedit" in the Search box  and then press Enter.
-
-Locate the following registry subkey, as appropriate for the version of Word that you are using:
-
-Word 2016: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Data
-Word 2013: HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Word\Data
-Word 2010: HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Word\Data
-Word 2007: HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Word\Data
-Word 2003: HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Word\Data
-
-Click Data, and then click File > Export.
-
-Name the file "Wddata.reg", and then save the file to the desktop.
-
-Click Edit > Delete, then click Yes.
-
-Exit the Registry Editor and start Word.
-
-If Word starts and works correctly, you have resolved the problem (a damaged Word Data registry key). You may now have to change several settings to restore your favorite options in Word.
-
-If the problem is not resolved, restore the original Word Data registry subkey, and then try the next method below.
- 
-
-Restore the original Word Data registry key
-To restore the original Word Data registry subkey, follow these steps:
-
-Exit all Office programs.
-
-Double-click the Wddata.reg icon on the desktop.
-
-Click Yes, and then click OK.
-
-If restoring the Word Data registry subkey doesn’t work, go to the next procedure.
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+        "@type": "Question",
+        "name": "How do you force restart a Surface Pro?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "&lt;ol&gt; 	&lt;li&gt;Press and hold the &lt;em&gt;Power&lt;/em&gt; button for about 30 seconds until the screen turns off, and then release it.&lt;/li&gt; 	&lt;li&gt;Press and hold the &lt;em&gt;Volume up&lt;/em&gt; and &lt;em&gt;Power&lt;/em&gt; buttons at the same time for about 15 seconds until the screen turns off, then release them.&lt;/li&gt; 	&lt;li&gt;10 seconds later, you can press the &lt;em&gt;Power&lt;/em&gt; button to turn on the Surface Pro.&lt;/li&gt;&lt;/ol&gt;"
+        }
+    },{
+        "@type": "Question",
+        "name": "How do you reset a Surface Pro?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "&lt;ol&gt; 	&lt;li&gt;Go to &lt;em&gt;Start &gt; Settings &gt; Update &amp; Security &gt; Recovery&lt;/em&gt;.&lt;/li&gt; 	&lt;li&gt;Select &lt;em&gt;Get Started&lt;/em&gt; under &lt;em&gt;Reset this PC&lt;/em&gt;.&lt;/li&gt; 	&lt;li&gt;Select &lt;em&gt;Keep my files&lt;/em&gt; or &lt;em&gt;Remove everything&lt;/em&gt; based on your own needs.&lt;/li&gt;&lt;/ol&gt;"
+        }
+    },{
+        "@type": "Question",
+        "name": "Where is the Power button on Surface Pro?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Power button of Surface Pro is located on the top side of the device screen and on the left side of the volume button."
+        }
+    },{
+        "@type": "Question",
+        "name": "Why is my Surface Pro not charging?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This issue can be caused by many reasons, such as power outage, the battery is completely drained and it needs five minutes to react, the charging cable is damaged, and more."
+        }
+    }]
+}		
+</script>
