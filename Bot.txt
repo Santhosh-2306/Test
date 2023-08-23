@@ -1,26 +1,13 @@
-Hello&nbsp;M C, Santhosh Vijay (365)	
+Hello
 
-"For what do you require assistance?
+For what do you require assistance?
+[Guidelines] [FAQ] [Support]
 
+[Guidelines]
 Course Recommendation allows you to access a training list that has been customized for you, as well as self-explore courses that interests you.
 
+[FAQ]
+Frequently Asked Questions
+
+[Support]
 Credit Hour assists you in entering the credits for the training you completed. It can also be viewed and modified.
-
-General support explains how to use the chat bot and answers your questions.
-"
-	General Support
-	Please select your requirement
-	Guidelines
-	"
-
-
-To obtain the credits, you must provide the certificate or other documents that confirm your request.
-
-The credits for the courses listed in the catalogues can only be obtained if the request is approved by the manager.
-
-While accessing the Microsoft forms ensure to use the DAIMLER mail ID that ends with tbdir.net
-"
-	Do you require assistance with anything else?
-	No
-	Have a great day.
-	Thanks for chatting with me. Bye!
