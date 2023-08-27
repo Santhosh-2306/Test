@@ -1,0 +1,1001 @@
+PartNo,PartName,User,Supplier,Date,SupplierQuote,Rec,SettledPrice
+4409,Hex Nut,Shelby Hoffman,Collins LLC,26-08-2022,467.1,316.09,358.49
+2667,Hex Nut,Susan Miller,"Newton, Griffith and Fleming",27-08-2022,107.87,72.27,79.96
+3271,Hex Nut,Carol Wilson,Conner LLC,27-08-2022,424.24,263.92,311.15
+5207,Hex Nut,Michael Evans,Johnston-Brown,27-08-2022,58.89,35.79,43.83
+5000,Hex Nut,Anthony Lambert,Smith-Baker,27-08-2022,283.76,188.22,213.37
+4664,Hex Nut,Patrick Hendricks,Salazar-Grant,27-08-2022,356.91,235.72,258.03
+8486,Hex Nut,Oscar Bishop,Patterson-Cole,27-08-2022,207.63,135.51,162.35
+5379,Hex Nut,Sonya Jacobs,"Wagner, Clark and Williams",28-08-2022,386.42,257.08,281.64
+1835,Hex Nut,Connor Harper,"Ellis, Adams and Parker",28-08-2022,83.34,56.43,63.41
+5192,Hex Nut,Eric Allen,Davis LLC,28-08-2022,372.55,230.03,262.95
+2592,Hex Nut,Alan Arnold,Robinson-Davis,29-08-2022,370.96,229.01,275.66
+4823,Hex Nut,Joseph Young,"Parker, Riggs and Ball",29-08-2022,65.6,39.52,50.29
+2488,Hex Nut,Stephanie Fields,Stewart-Hughes,29-08-2022,495.38,308.21,352.28
+3524,Hex Nut,Kayla Thomas,Hernandez-Mitchell,29-08-2022,246.98,169.27,178.2
+6408,Hex Nut,Carolyn Green,"Rice, Ali and Brock",29-08-2022,87.36,58.99,69.8
+1463,Hex Nut,Sally Turner,"Henderson, Hunt and Stafford",30-08-2022,466.34,318.68,364.8
+9055,Hex Nut,Audrey Garrison,"Willis, Powers and Wilson",30-08-2022,483.37,337.49,373.74
+6790,Hex Nut,Bradley Carrillo,Phillips-Johnson,30-08-2022,441.29,265.78,330.96
+6419,Hex Nut,Phillip Bond,Cook-Smith,30-08-2022,370.36,248.95,285.08
+4556,Hex Nut,Jonathan Anderson,Collier PLC,31-08-2022,101.54,61.01,73.23
+3929,Hex Nut,Sharon Sexton,House Group,31-08-2022,280.69,194.21,203.42
+8817,Hex Nut,Matthew Flores,Lynch Ltd,01-09-2022,181.91,116.1,130.91
+7585,Hex Nut,Caitlin Howard,"Moore, Smith and Reed",01-09-2022,394.66,246,281.2
+3229,Hex Nut,Kathryn Townsend,Dillon Ltd,03-09-2022,459.75,283.97,366.46
+5424,Hex Nut,Colin Juarez,Tyler Ltd,03-09-2022,342.71,211.06,243.82
+2709,Hex Nut,Kelly Lee,Nolan-Welch,03-09-2022,52.29,35.62,40.7
+9359,Hex Nut,Jordan Vaughan,Stevenson PLC,03-09-2022,56,39.18,43.5
+6554,Hex Nut,Tyrone Cox,Rose-Moore,04-09-2022,177.17,123.9,135.82
+5523,Hex Nut,Philip Webster,Mendez-Nunez,04-09-2022,466.85,319.9,367.92
+1498,Hex Nut,Mr. Matthew West,"Johnson, Hernandez and Bell",04-09-2022,472.79,294.03,341.22
+1064,Hex Nut,Matthew Wright,Guerrero-Espinoza,05-09-2022,185.12,123.47,141.94
+7870,Hex Nut,Laura Spence,"Norris, Rocha and Reed",05-09-2022,54.7,33.19,39.07
+2705,Hex Nut,Shane Sampson,"Williams, Estes and Lyons",06-09-2022,427.2,281.27,304.05
+6079,Hex Nut,William Faulkner,Scott-Pineda,06-09-2022,317.68,215.53,246.68
+2651,Hex Nut,Matthew Chavez,Johnson-Turner,06-09-2022,236.55,146.17,183.69
+2624,Hex Nut,Abigail Cain,Anderson Ltd,06-09-2022,402.48,250.97,302
+8652,Hex Nut,Brandon Logan,Castro-Collins,07-09-2022,80.28,51.51,56.31
+3437,Hex Nut,Joshua Bernard,Smith-Lopez,07-09-2022,96.54,65.15,68.26
+9884,Hex Nut,Angela Adams,Park-Nelson,07-09-2022,173.03,115.73,127.11
+9647,Hex Nut,Doris West,"Trevino, Young and Jordan",08-09-2022,441.1,266.19,338.77
+6952,Hex Nut,Kimberly Watson,Smith-Chen,08-09-2022,345.2,209.5,252.95
+5751,Hex Nut,Sarah Rodriguez,Avila Group,09-09-2022,116.29,71.09,86.31
+1388,Hex Nut,Jay Morton,Mack Group,09-09-2022,180.79,111.26,137.49
+4236,Hex Nut,Cameron Price,"Vang, Morgan and Rivera",10-09-2022,82.14,50.73,61.11
+6702,Hex Nut,Roger Fuller,Herman PLC,11-09-2022,209.12,134.86,160.22
+3157,Hex Nut,Amanda Curry,Bryant-Crane,11-09-2022,87.32,56.44,69.17
+2151,Hex Nut,Tracy Washington,Sutton Group,11-09-2022,372.51,226.52,267.06
+3433,Hex Nut,Daniel Alexander,"Fisher, Ward and Montgomery",11-09-2022,336.22,220.44,255.26
+9989,Hex Nut,Debra Moreno DDS,May LLC,11-09-2022,484.23,318.89,372.44
+2196,Hex Nut,Jonathan Schmidt,"Mejia, Moore and Adams",12-09-2022,160.83,102.38,124.08
+1889,Hex Nut,Zachary Padilla,Nelson PLC,12-09-2022,88.38,56.2,66.51
+2715,Hex Nut,Kyle Delgado,"Sims, Macdonald and Patton",13-09-2022,231.18,154.54,167.82
+8264,Hex Nut,Jimmy Phillips,Moran-Stewart,13-09-2022,239.3,156.2,181.76
+4916,Hex Nut,Scott Johns,"Johnson, Miller and Tucker",13-09-2022,211.35,142.11,159.95
+2042,Hex Nut,Ryan Middleton,Navarro Ltd,13-09-2022,157.75,100.47,114.81
+3259,Hex Nut,Christina Diaz,Johnson-Hall,13-09-2022,253.01,156.25,193.73
+8352,Hex Nut,Alicia Burke,"Davidson, Mccarthy and Lee",14-09-2022,145.39,96.98,105.02
+9361,Hex Nut,Wesley Garcia,"Mcdonald, Coleman and Austin",14-09-2022,249.72,157.62,189.4
+2640,Hex Nut,Calvin Thompson,Hudson-Villa,15-09-2022,496.24,329.8,369.03
+4693,Hex Nut,Larry Harris,Oneill Ltd,15-09-2022,276.09,167.93,210.55
+5753,Hex Nut,Mary Mccullough,"Chandler, Henderson and Beck",15-09-2022,291.47,194.86,231.92
+7237,Hex Nut,Laurie Blackburn,Foster-Lee,16-09-2022,284.76,195.21,206.39
+3486,Hex Nut,Karen Bates,Armstrong and Sons,16-09-2022,318.95,219.69,244.31
+1093,Hex Nut,Jasmine Miller,"Christian, Hooper and Griffin",16-09-2022,265.06,166.19,211.15
+3315,Hex Nut,Jenna Bass,Martinez Group,17-09-2022,143.36,93.97,107.22
+1911,Hex Nut,Sandra Esparza,Sharp-Wilkinson,17-09-2022,433.37,288.93,306.28
+3968,Hex Nut,David Rowe,"Byrd, Long and Fernandez",17-09-2022,499.9,312.51,373.77
+4774,Hex Nut,Paige Macias,Lucero Ltd,17-09-2022,248.57,152.09,194.73
+5618,Hex Nut,Gregg Mccoy,Gray Inc,17-09-2022,99.01,60.66,70.51
+1458,Hex Nut,Joseph Haas,Meza Inc,18-09-2022,473.78,327.41,350.34
+6399,Hex Nut,Bethany Garcia,Perez-Hamilton,18-09-2022,396.9,270.79,302.05
+8969,Hex Nut,Matthew Cunningham,Ross-Fisher,19-09-2022,480.38,317.69,345.79
+2697,Hex Nut,Sandra Peterson,"Manning, Leonard and Mccormick",19-09-2022,73.41,47.65,57.99
+8132,Hex Nut,Mrs. Veronica Murphy,"Morgan, Davenport and Anderson",19-09-2022,344.81,228.64,275.79
+5819,Hex Nut,Troy Flores,Walker-Foley,19-09-2022,258.79,174.71,205.24
+2419,Hex Nut,Travis Montgomery,Cantu Ltd,19-09-2022,147.24,92.86,106.76
+8828,Hex Nut,Lauren Rivera,Young-Johnson,19-09-2022,214.07,145.04,153.71
+1738,Hex Nut,Jose Fisher,Patrick-Waters,20-09-2022,85.94,59.73,62.45
+4136,Hex Nut,Mr. Jim Ortiz,Thomas Inc,21-09-2022,214.47,147.53,157.99
+8582,Hex Nut,Juan House,Pollard Group,22-09-2022,104,71.27,81.95
+6866,Hex Nut,Cameron Lane,Anderson Group,22-09-2022,75.84,45.91,53.48
+2415,Hex Nut,Brittany Lopez,"Owen, Gomez and Diaz",24-09-2022,168.19,117.21,118.93
+8283,Hex Nut,Ryan Oneill,Morris-Edwards,25-09-2022,144.4,92.43,108.37
+6745,Hex Nut,Jennifer Smith,"Mitchell, Mosley and Ramirez",25-09-2022,438.92,278.19,334.91
+4947,Hex Nut,Desiree Richard,Mccann LLC,25-09-2022,493.72,300.01,385.25
+2727,Hex Nut,Charles Simon,"Gonzalez, Wilson and Mejia",25-09-2022,122.18,76.44,88
+6905,Hex Nut,Debra Garcia,Jenkins-Rocha,26-09-2022,320.09,212.86,245.97
+5884,Hex Nut,Scott Garcia,Gonzalez-Villa,26-09-2022,284.03,196.87,200.99
+8823,Hex Nut,William Martinez,Wiggins-Torres,26-09-2022,210.8,126.59,158.51
+3912,Hex Nut,Jamie Clark,"Clements, Thomas and Snow",26-09-2022,169.62,103.95,134.37
+4974,Hex Nut,Crystal Wilcox,Jordan-Johnson,27-09-2022,364.92,241.69,266.97
+6971,Hex Nut,Michael Warren,"Lambert, Howard and Richards",27-09-2022,78.62,53.01,60.83
+8216,Hex Nut,James Robinson,"Pineda, Murray and Ross",27-09-2022,279.69,168.11,203.15
+4902,Hex Nut,Roberto Walker,Martinez-Doyle,27-09-2022,453.35,310.75,337.48
+8345,Hex Nut,Elizabeth Vazquez,"Wu, Chavez and Cisneros",27-09-2022,142.69,89.11,110.85
+3797,Hex Nut,Michael Perez,Moran-Herrera,27-09-2022,308.03,201.59,226.14
+5082,Hex Nut,Edward Fisher,Fuller-Kennedy,28-09-2022,262.84,161.64,189.97
+3306,Hex Nut,Rebecca Ramirez,"Robinson, Willis and Watkins",29-09-2022,312.75,207.28,236.47
+9117,Hex Nut,Samuel Jefferson,Mcgrath-Davis,29-09-2022,112.07,67.56,86.08
+1741,Hex Nut,Darryl Morales,Anderson Group,30-09-2022,484.69,314.42,360.05
+2594,Hex Nut,Michelle Howard,"Zimmerman, Wood and Gray",30-09-2022,390.72,255.48,278.43
+9409,Hex Nut,Erika Foster,"Robinson, Miller and Cole",30-09-2022,155.95,106.66,116.14
+3326,Hex Nut,Matthew Armstrong,Franklin PLC,30-09-2022,339.43,221.48,269.73
+7698,Hex Nut,Joshua James,"Kennedy, Garcia and Alexander",30-09-2022,95.12,62.09,67.57
+9969,Hex Nut,Ronald Walker,Reynolds-Marshall,01-10-2022,117.43,79.23,90.21
+3939,Hex Nut,Julie Banks,Ortiz-Fisher,01-10-2022,463.78,304.38,349.6
+8991,Hex Nut,Mr. William Roth MD,Lewis-Hawkins,01-10-2022,213.29,137.27,168.05
+4066,Hex Nut,Austin Wade,Adams-Mitchell,03-10-2022,134.21,84.83,99.62
+9673,Hex Nut,John Johnson,Brady LLC,03-10-2022,162.32,106.24,127.94
+2328,Hex Nut,Ashley Sullivan,Logan-Moore,05-10-2022,186.48,114.28,135.82
+8055,Hex Nut,Mark Moore,Rivera-Nguyen,05-10-2022,387.12,254.16,306.57
+9178,Hex Nut,Rachel Beard,Griffin PLC,05-10-2022,146.47,91,115.17
+2177,Hex Nut,Shawn Gaines,Evans PLC,05-10-2022,397.2,246.82,313.09
+3195,Hex Nut,Timothy Hayes,Johnson LLC,05-10-2022,97.15,66.43,70.73
+3159,Hex Nut,Joshua Mendez,Carpenter Inc,06-10-2022,446.66,285.05,320.54
+6096,Hex Nut,Rebecca Martin,Wright and Sons,06-10-2022,246.99,165.71,176.82
+3954,Hex Nut,Justin Zimmerman,Hurley-Murphy,06-10-2022,129.13,80.79,94.92
+8606,Hex Nut,Michelle Lewis,Garza-Wilson,07-10-2022,58.59,39.62,41.16
+9844,Hex Nut,Marcus Fernandez,"Mann, Cook and Smith",08-10-2022,490.03,304.09,344.75
+3564,Hex Nut,Nicholas Floyd,Buckley-Fox,09-10-2022,92.14,60.1,71.84
+7267,Hex Nut,Benjamin Nelson,"Wilson, Gallagher and Reed",09-10-2022,233.97,149.82,186.3
+7265,Hex Nut,Daniel Harmon,Boyd-Whitehead,11-10-2022,108.37,67.34,79.36
+5207,Hex Nut,Stanley David,"Goodwin, Smith and Walton",11-10-2022,286.43,179.21,221.79
+3749,Hex Nut,Miss Stephanie Ford,"Ellis, Lewis and Lewis",11-10-2022,248.92,163.9,196.13
+6639,Hex Nut,Laura Banks,Jones Inc,11-10-2022,146.44,99.67,114.13
+3336,Hex Nut,Michelle Nelson,Dominguez and Sons,11-10-2022,110.01,69.87,83.77
+3142,Hex Nut,Luke Dunn,Smith PLC,12-10-2022,173.24,116,128.32
+5616,Hex Nut,Scott Mueller,Kim Group,12-10-2022,71.31,44.24,52.86
+3626,Hex Nut,Lisa Sanchez,Richard-Malone,12-10-2022,423.88,258.95,304.69
+6037,Hex Nut,Thomas Crawford,"Wilcox, Hood and Flores",12-10-2022,133.82,93.22,100.37
+5746,Hex Nut,William Sullivan,Wilson and Sons,12-10-2022,378.32,227.03,284.48
+3959,Hex Nut,Cynthia Bryant,Perez and Sons,12-10-2022,157.11,100.07,110.12
+3527,Hex Nut,Gail Gamble,"Griffin, Powell and Williams",12-10-2022,72.05,46.28,56.67
+9238,Hex Nut,Christopher Lewis,"Adams, Campbell and Brown",13-10-2022,320.85,207.18,249.03
+1798,Hex Nut,Heidi Johnson,Fitzgerald-Reynolds,13-10-2022,436.36,280.87,326.91
+7239,Hex Nut,Alicia Walker,Matthews-Jackson,13-10-2022,369.93,229.3,282.02
+8783,Hex Nut,Tara Snow,"Jones, Ochoa and Owens",13-10-2022,174.06,108.11,137.77
+1413,Hex Nut,Michael Williams,Smith-Cruz,13-10-2022,274.91,185.88,201.51
+9208,Hex Nut,Nicole Gutierrez,"Goodwin, West and Ellis",14-10-2022,262.54,161.17,207.49
+3718,Hex Nut,John French,"White, Clark and Rodriguez",14-10-2022,407.76,279.22,299.82
+3786,Hex Nut,Timothy Gates,"Tran, Coleman and Gay",14-10-2022,441.57,298.65,327.75
+8489,Hex Nut,Joshua Silva,"Martinez, Smith and Simmons",15-10-2022,179.49,114.8,128.68
+9465,Hex Nut,Derek Becker,Friedman Ltd,15-10-2022,89.72,62.75,70.21
+7218,Hex Nut,Frederick Haney,Sloan Inc,16-10-2022,159.48,96.16,119.05
+5806,Hex Nut,Briana Benjamin,Weber-Reid,16-10-2022,350.33,242.45,279.32
+4829,Hex Nut,Christopher Taylor MD,"Norman, Campos and Keller",17-10-2022,355.93,215.98,279.92
+7930,Hex Nut,Kendra Richards,Mccann-Leonard,18-10-2022,196,125.88,154.3
+3677,Hex Nut,Christopher Wilkins,Curry PLC,18-10-2022,303.72,192.76,230.46
+7924,Hex Nut,Karen Cooper,Mitchell-Jones,18-10-2022,397.14,244.28,307.49
+8933,Hex Nut,Amber Walton,"Nash, Wolf and Pierce",18-10-2022,363.65,252.75,258.2
+3073,Hex Nut,Jessica Nielsen,Phillips-Baker,18-10-2022,196.4,127.4,144.28
+4195,Hex Nut,Joseph Hansen,Davis Ltd,19-10-2022,339.02,228.65,269.62
+4975,Hex Nut,Christopher Cherry,Sanchez-Smith,19-10-2022,251.32,160.8,200.84
+7683,Hex Nut,Charles Banks,Herrera-Taylor,20-10-2022,449.8,293.52,329.06
+8405,Hex Nut,Rachel Robinson,Carey-Williams,20-10-2022,458.84,301.39,350.26
+7929,Hex Nut,Robert Lopez,"Hunter, White and Mercer",20-10-2022,234.89,152.66,181.87
+8195,Hex Nut,Amy Williams,Hernandez Inc,20-10-2022,136.81,88.76,98.07
+9295,Hex Nut,Michael Fischer,Holloway and Sons,21-10-2022,307.42,203.43,233.64
+8165,Hex Nut,Kevin Taylor,Ortiz and Sons,22-10-2022,310.73,190.53,242.54
+4045,Hex Nut,Mark Compton,Price-Reed,22-10-2022,232.92,141.51,178.11
+7701,Hex Nut,Sarah Holder,Dominguez-Diaz,22-10-2022,301.7,185.72,235.95
+4684,Hex Nut,Edward Schaefer,Smith and Sons,23-10-2022,436.07,300.45,326.17
+3560,Hex Nut,Jenny Tucker,Sandoval Inc,23-10-2022,425.46,286.75,302.25
+7195,Hex Nut,Kristen Hughes,Johnson-Johnson,23-10-2022,65.09,40.55,46.38
+8627,Hex Nut,Sandy Jones,"Rivera, Manning and Thornton",23-10-2022,199.45,131.67,157.69
+1525,Hex Nut,Keith Hammond,Gilbert-Fields,23-10-2022,482.62,319.23,366.51
+5716,Hex Nut,David Hoffman,Hall LLC,24-10-2022,349.55,226.48,254.2
+4347,Hex Nut,Anthony Smith,Schmidt Ltd,24-10-2022,436.09,275.99,341.23
+8853,Hex Nut,Gary Morrison,"Chavez, Thompson and Lewis",24-10-2022,436.36,285.38,323.04
+9087,Hex Nut,Joshua Armstrong,Thomas-Hopkins,25-10-2022,398.87,249.82,284.84
+1407,Hex Nut,Joseph Sexton,Ruiz and Sons,25-10-2022,303.68,205.4,223.42
+1089,Hex Nut,Nicole Webb,Ryan Group,25-10-2022,232.24,152.5,174.89
+9151,Hex Nut,John Rivera,"Martinez, Payne and Murphy",25-10-2022,297.47,205.88,237.24
+5762,Hex Nut,Jennifer Rodgers,"Herrera, Howe and Williams",25-10-2022,423.87,294.43,338.8
+4804,Hex Nut,Megan Arellano,Obrien-Bentley,28-10-2022,156.94,99.38,121.82
+9333,Hex Nut,Heather Montes,Larsen Inc,28-10-2022,89.96,61.5,71.38
+6728,Hex Nut,David Vargas,Swanson Group,28-10-2022,427.48,257.55,315.08
+6590,Hex Nut,Michael Powell,Wilson PLC,29-10-2022,94.69,59.72,75.67
+8625,Hex Nut,Joseph Collins,Osborne Ltd,29-10-2022,417.96,275.85,321.21
+8159,Hex Nut,Barbara Wagner,Moore-Rodriguez,30-10-2022,278.89,185.08,201.58
+6786,Hex Nut,Jacqueline Garza,Tucker-Howard,31-10-2022,168.96,110.06,126.9
+3448,Hex Nut,Devin Friedman,Wilson Ltd,01-11-2022,80.67,48.69,64.37
+9915,Hex Nut,James Patel,Richardson PLC,02-11-2022,464.14,292.23,341.43
+4642,Hex Nut,Leah Zamora,Barber Group,03-11-2022,81.24,48.89,61.41
+7628,Hex Nut,Carlos Roberts,Smith-Walker,03-11-2022,74.62,49.51,54.06
+4290,Hex Nut,Felicia Mann,"Ryan, Smith and Duncan",03-11-2022,321.39,207.98,226.51
+2676,Hex Nut,Lee Perez,Parker-Rios,03-11-2022,157.84,95.67,120.44
+3612,Hex Nut,Ashley Douglas,Dawson Ltd,04-11-2022,62.59,39.01,48.73
+8217,Hex Nut,Ralph Ramirez,Miller Ltd,04-11-2022,303.9,197.15,223.15
+3190,Hex Nut,Kyle Powell,"Harvey, Dyer and Mcdaniel",04-11-2022,210.8,129.83,165.03
+1632,Hex Nut,Megan Frazier,Jones-White,04-11-2022,196.34,125,149.06
+7466,Hex Nut,Ricardo Davis,Powers-Randall,04-11-2022,361.18,236.62,288.06
+2848,Hex Nut,Joseph Cobb MD,"Thomas, Cunningham and Wolfe",05-11-2022,341.79,211.83,247.07
+2098,Hex Nut,Michaela Parker,"Weaver, Hill and Marshall",05-11-2022,66.05,46.2,52.27
+3247,Hex Nut,Sarah Fisher,Rivera Ltd,05-11-2022,366.12,230.09,269.2
+2906,Hex Nut,Laura Johnson,Love Ltd,05-11-2022,258.27,155.18,185.31
+8046,Hex Nut,Chelsea Lam,Parks-Butler,05-11-2022,474.93,307.57,338.03
+1396,Hex Nut,Kyle Green,Martinez Ltd,05-11-2022,202.53,125.41,142
+5042,Hex Nut,Eric Kirby,"Foster, Santos and Dillon",06-11-2022,499.29,302.79,387.42
+4126,Hex Nut,Patrick Murray,Allen LLC,06-11-2022,128.02,85.66,95.27
+8660,Hex Nut,Aaron Bates,Arnold Group,06-11-2022,394.72,239.43,292
+8423,Hex Nut,Sophia Harrell,Pearson-Hamilton,06-11-2022,327.73,212.5,233.19
+5199,Hex Nut,Mrs. Melinda Ball,Jones-Jones,06-11-2022,191.37,132.82,147.31
+8008,Hex Nut,Scott Stokes,"Chan, Stein and Farrell",07-11-2022,437.35,287.03,331.77
+9245,Hex Nut,Jack Rogers,"Reyes, Wells and Griffin",07-11-2022,267.92,174.78,188.38
+7164,Hex Nut,Toni Lewis,Bradley Group,07-11-2022,213.56,130.91,152.94
+9440,Hex Nut,Elizabeth Marks,"Parker, Dunn and Richardson",07-11-2022,185.76,117.16,143.08
+8271,Hex Nut,Ryan Brewer,Richardson Inc,07-11-2022,371.63,226.72,270.86
+8010,Hex Nut,Ryan Berry,Bryant-Williams,08-11-2022,341.31,211.53,242.1
+7176,Hex Nut,Samantha Powell,Miller-Oliver,08-11-2022,66.52,43.05,46.63
+6621,Hex Nut,Robert Anderson,Aguilar-Perez,08-11-2022,365.27,231.24,265.52
+3800,Hex Nut,Jennifer Campbell,"Santiago, Clayton and Nicholson",09-11-2022,469.79,328.01,373.37
+5402,Hex Nut,Christine Knight,"Saunders, Randall and Lopez",09-11-2022,427.73,290.61,340.62
+1921,Hex Nut,Anita Campbell,"Garcia, Fuller and Alexander",10-11-2022,392.27,260.62,292.66
+5029,Hex Nut,Lauren Howe,Jones Ltd,10-11-2022,419.52,275.99,330.33
+4141,Hex Nut,John Rodriguez,"Livingston, Moss and Fletcher",10-11-2022,257.64,165.75,194.99
+9326,Hex Nut,Jacob Brown,Patel Group,11-11-2022,488.12,322.72,386.16
+9582,Hex Nut,Stacie Harris,"Carter, Smith and Wyatt",12-11-2022,345.21,241.62,266.6
+3230,Hex Nut,Willie Morgan,Sherman and Sons,12-11-2022,310.98,187.99,234.13
+6494,Hex Nut,Phillip Arroyo,"King, Perez and Burnett",12-11-2022,126.51,78.04,96.14
+7382,Hex Nut,Richard Hunt,Greene-Rios,13-11-2022,336.83,228.8,266.54
+3343,Hex Nut,David Perez,"Walker, Price and Jones",13-11-2022,178.36,123.02,137.77
+6203,Hex Nut,Andrea Gould,"Brown, Williams and Riley",13-11-2022,350.49,211.32,245.92
+9455,Hex Nut,Rebecca Chen,"Villarreal, Pratt and Brooks",13-11-2022,225.22,138.01,177.08
+6551,Hex Nut,Darren Klein,"Martinez, Rose and Cox",14-11-2022,371.3,258.49,291.49
+2804,Hex Nut,Kathy Cunningham,Romero-Alexander,14-11-2022,92.57,63.35,68.88
+6555,Hex Nut,Kimberly Brown,"Kerr, Cook and Daugherty",14-11-2022,401.09,279.09,320.59
+3758,Hex Nut,Gregory Perry,Nelson Group,14-11-2022,100.17,66.42,77.17
+5691,Hex Nut,Miguel Delacruz,"Saunders, Rose and Perez",15-11-2022,499.39,331.22,378.54
+1561,Hex Nut,Caitlin Simpson,Garcia LLC,15-11-2022,413.06,269.11,319.75
+9065,Hex Nut,Meghan Meyer,Hall Inc,15-11-2022,297.49,187.76,217.38
+4519,Hex Nut,Tracy Frank,Ray LLC,15-11-2022,276.8,179.09,199.28
+3566,Hex Nut,George Mullins,Smith LLC,16-11-2022,402.83,260.18,300.01
+9950,Hex Nut,John Scott,Stewart-Bell,16-11-2022,208.65,131.99,158.44
+4203,Hex Nut,Michelle Holland,"Cruz, Armstrong and Brady",16-11-2022,359.17,237.85,277.94
+4026,Hex Nut,Jeremy Goodwin,Black-Cole,16-11-2022,170.6,104.28,123.24
+1893,Hex Nut,Jennifer Davis,Romero and Sons,16-11-2022,55.36,36.19,42.09
+9043,Hex Nut,John Long,Pena-Jones,16-11-2022,385.87,241.19,307.31
+1117,Hex Nut,Larry West,"Riley, Gates and Nichols",16-11-2022,308.49,189.29,221.91
+1887,Hex Nut,Scott Morgan,Parrish Inc,17-11-2022,152.23,100.49,117.33
+6830,Hex Nut,Joshua Garcia,Frye PLC,18-11-2022,63.92,38.48,47.97
+6280,Hex Nut,Lorraine Paul,Brown-Baker,19-11-2022,360.82,221.49,286.48
+8074,Hex Nut,Adam Martin,Valentine-Vance,20-11-2022,250.47,165.51,192.47
+7046,Hex Nut,Todd Harrington,Stone-Harrison,20-11-2022,301.27,191.1,229.02
+7616,Hex Nut,Geoffrey Sosa,Thompson-Williams,21-11-2022,314.2,214.67,243.4
+7443,Hex Nut,Kevin Nelson,Petersen-Conley,21-11-2022,438.63,267.14,311.82
+8975,Hex Nut,Sarah Bradford,Reeves-Adams,22-11-2022,488.9,323.17,384.09
+7988,Hex Nut,Julie Sanchez,Kennedy Group,22-11-2022,286.16,180.14,228.26
+3571,Hex Nut,Clinton Sims,"Ortiz, Hopkins and Arnold",22-11-2022,231.18,138.74,175.85
+1321,Hex Nut,Joseph Elliott,"Evans, Adkins and Williams",23-11-2022,240.36,156.37,168.8
+6307,Hex Nut,Michelle Frost,Scott Ltd,23-11-2022,57.37,36.52,41.31
+8493,Hex Nut,Wayne Deleon,Benjamin-Bush,23-11-2022,162.51,110.37,125.11
+5547,Hex Nut,Brad Mason DVM,Chen-Cooper,23-11-2022,459.65,299.46,357.52
+7914,Hex Nut,Karen Martinez,"Mullins, Shelton and Benson",24-11-2022,486.27,320.65,354.34
+2297,Hex Nut,Mark Nichols,"Schroeder, Vargas and Weber",25-11-2022,138.05,94.02,110.06
+6376,Hex Nut,Martin Martin,Jones and Sons,25-11-2022,84.25,52.35,65.85
+6551,Hex Nut,Krista Martin,Kirby-Williams,25-11-2022,318.27,205.11,247.23
+1657,Hex Nut,Joshua Lowe,"Jacobson, Martin and Martinez",26-11-2022,202.72,127.42,143.97
+8391,Hex Nut,Jorge Wilson,"Cowan, Jackson and Mueller",27-11-2022,135.46,94.11,98.26
+3493,Hex Nut,Meagan Barnett,"Carr, Porter and Stein",28-11-2022,155.55,101.16,111.58
+8951,Hex Nut,Jeff Brown,"Perez, Nelson and Flores",28-11-2022,264.58,161.7,200.67
+7283,Hex Nut,Heather Harris,"Hester, Obrien and Sanchez",29-11-2022,387.74,236.41,283.23
+4281,Hex Nut,Steven Kim,Martinez-Nelson,29-11-2022,499.82,321.83,350.92
+8324,Hex Nut,Regina Hunt,Mcguire-Avery,29-11-2022,252.15,162.99,182.16
+7897,Hex Nut,Edward Palmer,Barnes PLC,29-11-2022,71.61,46.81,51.52
+6907,Hex Nut,Kimberly Lewis,"Smith, Robbins and Blanchard",29-11-2022,280.52,174.02,222.46
+8835,Hex Nut,Brad Morgan,Simmons LLC,29-11-2022,444.09,303.97,328.19
+5696,Hex Nut,Eric Carter,Davis Ltd,30-11-2022,370.88,226.82,288.6
+4515,Hex Nut,Valerie Bush,Campbell-Haley,30-11-2022,423.61,268.89,319.45
+2934,Hex Nut,Richard Mitchell,Duke Ltd,01-12-2022,462.13,286.18,336.02
+5648,Hex Nut,Scott Martinez,"Mason, Day and Carroll",01-12-2022,475.94,286.26,364.86
+7284,Hex Nut,Kyle Davis,"Garza, Martinez and Taylor",01-12-2022,211.18,140.69,161.95
+3433,Hex Nut,David Williams,Henry Ltd,01-12-2022,242.39,167.72,182.22
+4058,Hex Nut,Juan Jones,Bell Ltd,01-12-2022,113.36,73.43,85.22
+2910,Hex Nut,Darryl Quinn,Mccarthy Ltd,02-12-2022,51.25,32.09,40.41
+5143,Hex Nut,Mr. Adam Ward,Taylor Group,02-12-2022,161.41,99.34,126.67
+4225,Hex Nut,Daniel Powers,Martin-Baker,02-12-2022,466.93,317.4,336.44
+6647,Hex Nut,Bethany Moran,"Carter, Lloyd and Harris",03-12-2022,160.33,105.26,124.46
+3791,Hex Nut,Brenda Miller,"Griffin, Rodriguez and Moody",03-12-2022,420.41,264.48,320.52
+3648,Hex Nut,Cody Jones,"Stewart, Snyder and Fernandez",03-12-2022,116.44,80.2,88.1
+6155,Hex Nut,Jason Rhodes,Lamb Ltd,03-12-2022,110.97,69.38,80.84
+7858,Hex Nut,Michael Skinner,Roberts PLC,04-12-2022,121.43,79.53,85.16
+5585,Hex Nut,Shawn Clark,Lopez-Foley,04-12-2022,374.03,237.9,289.93
+1306,Hex Nut,Jason Moore,Valdez-Bradshaw,04-12-2022,109.43,71.8,81.72
+4726,Hex Nut,Emma Butler,Moore LLC,05-12-2022,328.95,228.77,245.29
+3286,Hex Nut,Charles George,Parrish Group,05-12-2022,169.13,114.02,128.16
+5640,Hex Nut,John Jones,"Nelson, Armstrong and Spears",06-12-2022,53.2,33.58,37.84
+4085,Hex Nut,Susan Hancock,Rivera-Hughes,06-12-2022,193.05,118.42,138.99
+4466,Hex Nut,Melissa Chambers,"Cooper, Durham and Robinson",06-12-2022,358.58,222.19,262.85
+8651,Hex Nut,Caleb Mueller,"Perez, Garcia and Schaefer",06-12-2022,256.35,168.4,187.46
+4366,Hex Nut,Amy Morrow,Valenzuela-Mason,06-12-2022,226.32,144.71,176.95
+3880,Hex Nut,Ernest Johnson,"Campbell, Barber and Bush",06-12-2022,386.67,267.85,271.97
+4939,Hex Nut,Megan Boyd,Wallace-Stevens,06-12-2022,379.04,247.99,293.19
+7878,Hex Nut,Michael Grimes,Bryant-Banks,07-12-2022,183.95,111.59,135.55
+2826,Hex Nut,Richard King,Price LLC,07-12-2022,312.42,204.83,236.51
+1983,Hex Nut,Timothy Anderson,Preston-Mcdonald,09-12-2022,134.85,82.41,97.37
+6493,Hex Nut,James Davis,Kennedy-Vega,09-12-2022,222.66,148.58,159.43
+2950,Hex Nut,Brittany Woodward,"Simpson, Pearson and Wu",09-12-2022,481.18,293.09,357.57
+3293,Hex Nut,Leslie Fox,"Jones, Sanford and Willis",09-12-2022,218.05,135.92,171.89
+4305,Hex Nut,Bruce Cortez,"Mcdonald, Wells and Evans",10-12-2022,262.08,160.27,208.41
+3980,Hex Nut,Erik Mccarthy,Webb-Salas,10-12-2022,454.78,301.33,350.87
+1762,Hex Nut,Daniel Rose,"Zamora, Aguilar and Walker",11-12-2022,105.56,71.04,74.25
+7937,Hex Nut,William Jones,Moreno-Edwards,11-12-2022,197.23,137.81,153.17
+4619,Hex Nut,Jenna Hughes,Hansen Group,11-12-2022,151.84,91.55,113.48
+7742,Hex Nut,William Diaz,Reynolds PLC,13-12-2022,489.7,327.57,389.08
+4480,Hex Nut,Brianna Robertson,Paul-Paul,13-12-2022,124.92,77.71,90.91
+7380,Hex Nut,Mary Daniels,"King, Harper and Hanson",13-12-2022,238.59,154.86,178.99
+4288,Hex Nut,Rebecca Lloyd,"Alexander, Fischer and Perkins",14-12-2022,268.29,178.88,212.53
+1698,Hex Nut,Michael Sullivan,Gomez Inc,15-12-2022,263.22,176.8,197.04
+8506,Hex Nut,Jessica Johnson,"Morrison, Williams and Gonzales",15-12-2022,373.11,254.54,290.64
+5002,Hex Nut,Karen Love,"White, Crawford and White",15-12-2022,138.77,93.88,100.34
+8573,Hex Nut,David Reyes,"Hanna, Wood and Bailey",15-12-2022,476.48,323.48,349.28
+1116,Hex Nut,Kaitlyn Flowers,"Woods, Yoder and Spencer",15-12-2022,414.06,286.84,308.42
+7829,Hex Nut,Dr. Christy Roberts DDS,"Moore, Oliver and Bell",16-12-2022,424.32,270.4,301.66
+4333,Hex Nut,Anthony Meyer,"Barrera, Johnson and Krueger",16-12-2022,331.48,224.68,237.49
+6185,Hex Nut,Christina Brown,Wilson PLC,17-12-2022,160.93,97.48,125.25
+9190,Hex Nut,David Jacobs,Woods-Peterson,18-12-2022,285.64,174.86,225.35
+7325,Hex Nut,David Chapman,"Morrison, Robertson and Silva",19-12-2022,309.13,199.75,217.28
+6099,Hex Nut,Carrie Mays,Mcneil Inc,20-12-2022,457.1,312.52,345.26
+6056,Hex Nut,Samantha Walker,Shelton-Thompson,20-12-2022,429.1,258.78,330.68
+5770,Hex Nut,Jeffrey Middleton,Nolan-Watkins,21-12-2022,358.97,239.36,253.25
+6546,Hex Nut,Kyle Willis,"Simpson, Gillespie and Jones",21-12-2022,375.82,247.53,264.82
+5838,Hex Nut,Kimberly Walker DDS,Hendrix LLC,21-12-2022,94.7,62.4,70.1
+9869,Hex Nut,Isabella Peterson,"Rollins, Beck and Russo",22-12-2022,279.85,193.52,211.22
+5634,Hex Nut,Kelly Floyd,Cooper Inc,22-12-2022,452.52,299.28,360.01
+9410,Hex Nut,Alex Reed,Lawson-Lee,22-12-2022,307.41,210.27,238.06
+3144,Hex Nut,Kevin Edwards,"Young, Meyer and Harper",23-12-2022,355.25,234.02,262.19
+1100,Hex Nut,Megan Wyatt,Hill LLC,23-12-2022,92.77,56.34,72.53
+1314,Hex Nut,Mrs. Marcia Horn,Quinn-Dominguez,24-12-2022,450.33,295.69,315.25
+7646,Hex Nut,Joseph Burton,Lee-Wood,25-12-2022,283.09,183.84,219.18
+1836,Hex Nut,Phillip Jordan,Mitchell PLC,25-12-2022,261.18,168.6,205.65
+1544,Hex Nut,Kelly Reed,"Bradshaw, Moore and Gillespie",25-12-2022,273.35,178.4,215.91
+3902,Hex Nut,Brian Richardson,Howell and Sons,25-12-2022,142.91,87.9,104.66
+5021,Hex Nut,Andrew Mullins,"Gross, Allen and Rogers",25-12-2022,309.71,186.4,222.89
+2967,Hex Nut,Timothy Reeves,Lopez Ltd,26-12-2022,419.78,273.79,309.09
+4465,Hex Nut,Sara Wu,"Brown, Kerr and Miles",27-12-2022,227.88,138.78,173.51
+6986,Hex Nut,Emma Arias,Collins PLC,27-12-2022,229.22,158.73,179.63
+9055,Hex Nut,Curtis Hardin,Myers PLC,27-12-2022,169.52,103.58,118.85
+8598,Hex Nut,Ashley Johnson,Hawkins Inc,28-12-2022,229.77,152.71,168.46
+9671,Hex Nut,John Coleman,"Mclaughlin, Jenkins and Guerrero",28-12-2022,376.04,236.16,269.59
+8764,Hex Nut,Stacey Ford,Mitchell PLC,29-12-2022,92.27,55.79,68.5
+4355,Hex Nut,Matthew Adams,"Cole, Austin and Castro",29-12-2022,328.47,208.54,257.21
+9048,Hex Nut,Keith Williams,Jarvis PLC,29-12-2022,257.4,165.88,182.26
+8478,Hex Nut,Michael Wright,Berry-Stewart,29-12-2022,337.95,211.41,265.5
+3625,Hex Nut,Molly Fletcher,Lowery and Sons,30-12-2022,322,197.87,236.4
+9584,Hex Nut,Randy Leonard DDS,Rangel-Parker,30-12-2022,52.47,32.07,36.93
+5723,Hex Nut,Donald Gonzalez,Proctor-Valenzuela,30-12-2022,441.54,308.62,311.78
+3681,Hex Nut,Ashley Valdez,Mcgee-Stanley,30-12-2022,223.56,148.79,176.97
+8191,Hex Nut,Kelsey Ramos,Thomas LLC,30-12-2022,447.32,310.23,342.46
+4628,Hex Nut,David Lewis,"Rich, Price and Anderson",30-12-2022,122.7,84.61,93.96
+2784,Hex Nut,Mary Ho,Strickland Ltd,30-12-2022,165.29,101.36,124.32
+2484,Hex Nut,Roberto Carter,Lloyd-Clark,30-12-2022,127.14,85.58,98.37
+1944,Hex Nut,Katrina Randolph,Clay Group,31-12-2022,363.54,233.84,279.82
+8590,Hex Nut,Courtney Mclaughlin,Gross PLC,31-12-2022,495.22,301.38,379.08
+6385,Hex Nut,Marcus Rose,"Acevedo, Sanchez and Davis",31-12-2022,56.81,35.32,44.75
+2659,Hex Nut,Derek Peck,Baldwin-Pineda,31-12-2022,280.56,191.31,218.16
+6375,Hex Nut,Daniel Robertson,"Jones, Stephenson and Rogers",31-12-2022,115.42,75.24,84.53
+8112,Hex Nut,Elizabeth Patton,"Pearson, Chavez and Holt",31-12-2022,192.28,126.19,151.05
+6242,Hex Nut,Paul Barron,Daugherty Group,31-12-2022,332.53,228.38,265.18
+1217,Hex Nut,Michele Pugh,Arias-Rodriguez,01-01-2023,292.15,188.28,210.93
+6399,Hex Nut,Karen Thompson,Martin Group,01-01-2023,82.02,56.83,60.2
+7599,Hex Nut,Joshua Smith,Jackson Ltd,01-01-2023,124.09,82.47,95.73
+8653,Hex Nut,Steven Klein,Lewis-Robinson,01-01-2023,88.65,61.23,62.59
+9495,Hex Nut,Mr. Daniel Holloway,May-Hall,01-01-2023,228.19,156.21,169.8
+1234,Hex Nut,Misty George,Reynolds Inc,02-01-2023,380.24,258.1,271.79
+6181,Hex Nut,James Shepherd,"Sims, Hunter and Palmer",02-01-2023,225.82,152.79,162.72
+3809,Hex Nut,Elizabeth Sherman,Warren Ltd,02-01-2023,130.67,80.73,94.45
+3184,Hex Nut,Beth Evans,Church-Mann,02-01-2023,449.24,275.69,345.74
+8664,Hex Nut,Andrew Torres,Gonzales Ltd,02-01-2023,231.53,158.86,162.19
+4250,Hex Nut,Angela English,Arnold-Mcdaniel,02-01-2023,242.45,157.79,174.44
+3065,Hex Nut,Matthew Hernandez,"Butler, Guzman and Fernandez",02-01-2023,371.63,224.05,264.11
+7617,Hex Nut,Rebekah Leach,Bryant and Sons,03-01-2023,206.49,136.81,152.69
+9276,Hex Nut,Ms. Dominique Johnson,"Young, Meadows and Edwards",04-01-2023,217.42,139.59,152.24
+5000,Hex Nut,Darrell Bailey,Johnson-Walker,04-01-2023,221.78,145.35,163.14
+8526,Hex Nut,Jose Wilcox,"Thompson, Smith and Carpenter",04-01-2023,128.49,83.86,97.1
+5932,Hex Nut,Ryan Butler,Brennan-Hawkins,05-01-2023,68.54,45.69,52.18
+2171,Hex Nut,Kathy Rodriguez,Miranda-Caldwell,05-01-2023,189.17,125.09,142.47
+9349,Hex Nut,Angela Short,Wyatt Group,06-01-2023,448.13,287.68,352.46
+8191,Hex Nut,Carl Smith,"Jones, Holmes and Carter",06-01-2023,385.7,265.63,291.27
+1281,Hex Nut,Manuel Thompson,Ward-Jackson,07-01-2023,201.48,136.9,158.4
+3936,Hex Nut,Shawn Watts,Kim-Price,07-01-2023,243.3,156.92,176.21
+8704,Hex Nut,Anthony Allen MD,"Reynolds, Rogers and Morgan",07-01-2023,220.16,153.33,165.27
+4358,Hex Nut,Angela Warren,"Flores, Mercer and Wagner",08-01-2023,294.85,190.35,211.61
+5748,Hex Nut,Randy Wilson,Young LLC,08-01-2023,141.03,85.95,99.92
+8804,Hex Nut,Sergio Rowe,"Murray, Ford and Haynes",08-01-2023,373.53,242.86,279.77
+9619,Hex Nut,Deborah Smith,"Davis, Garrett and Coleman",08-01-2023,475.48,324.75,358.44
+8997,Hex Nut,John Phillips,Tyler PLC,08-01-2023,122.08,80.56,93.93
+3918,Hex Nut,Michelle Walker,Gamble-Welch,09-01-2023,227.92,137.94,162.16
+5086,Hex Nut,Jessica Taylor,"Flores, Taylor and Key",09-01-2023,432.99,300.45,323.14
+8312,Hex Nut,Richard Martinez,Hall Inc,09-01-2023,248.02,149.42,190.51
+9897,Hex Nut,Hector Johnson,Williams Inc,09-01-2023,198.52,124.31,155.48
+9937,Hex Nut,Steven Parker,"Santos, Nguyen and Mcguire",10-01-2023,425.07,284.91,316.54
+3561,Hex Nut,Kimberly Robinson,"Williams, Harris and Malone",10-01-2023,496.15,334.2,370.76
+8308,Hex Nut,Leon Armstrong DDS,Mccoy LLC,10-01-2023,475.14,295.69,340.31
+8819,Hex Nut,Deborah Walls,Mitchell LLC,11-01-2023,340.91,213.44,267.14
+3700,Hex Nut,Kimberly Davis,Smith-Wyatt,11-01-2023,485.41,308.79,384.93
+3815,Hex Nut,Susan Rose,"Keith, Burns and Santiago",11-01-2023,186.09,126.6,137.18
+4780,Hex Nut,Jessica Peters,Church-Carr,12-01-2023,128.09,86.35,99.45
+1444,Hex Nut,Timothy Petty MD,Gonzalez PLC,12-01-2023,171.62,113.59,120.78
+7281,Hex Nut,Fred Todd,Ramos-White,12-01-2023,94.54,61.1,69.82
+1421,Hex Nut,Shirley White,"Johnson, Allen and Peterson",13-01-2023,208.83,134.44,160.87
+1932,Hex Nut,Elizabeth Hobbs,"Li, Bright and Martin",14-01-2023,306.21,213.28,217.34
+2205,Hex Nut,Todd Vaughn,"Sweeney, Franklin and Scott",14-01-2023,132.16,91.33,103.62
+8328,Hex Nut,Michael Fuller,Smith-Jenkins,14-01-2023,149.76,99.96,118.44
+6467,Hex Nut,Heather Richardson,"Contreras, Lozano and Sanchez",14-01-2023,339.37,224.87,243.12
+1747,Hex Nut,Morgan Novak,"Fisher, Moreno and Cruz",16-01-2023,146.07,99.84,105.21
+8755,Hex Nut,Tina Scott,"Grimes, Keith and Moore",16-01-2023,289.27,195.88,207.77
+5635,Hex Nut,Amy Velez,Torres LLC,17-01-2023,399.17,267.4,289.69
+3372,Hex Nut,Darryl Montoya,Smith Group,17-01-2023,250.58,157.54,192.52
+4170,Hex Nut,Beth Wright,Richardson-Gray,17-01-2023,340.25,228.72,267.7
+4214,Hex Nut,Curtis Wheeler,"Phillips, Bradley and Hunt",18-01-2023,444.53,308.15,315.7
+7530,Hex Nut,Johnathan Woods,"Clark, Baxter and Moore",19-01-2023,496.73,332.05,367.39
+6097,Hex Nut,Tammy Compton,Mack-Lewis,19-01-2023,203.15,136.06,156.97
+6970,Hex Nut,Peter Williamson,"Blake, Mcfarland and Freeman",20-01-2023,159.28,102.98,113.4
+5046,Hex Nut,Carrie Griffin,Foster LLC,20-01-2023,120.54,80.2,94.33
+9208,Hex Nut,Joseph Sosa,Elliott PLC,22-01-2023,133.57,88.86,93.59
+4154,Hex Nut,Sydney Herman,Butler-Lewis,22-01-2023,232.23,148.32,166.81
+6161,Hex Nut,Jill Wong,"Knox, Conway and Gibson",22-01-2023,198.29,131.79,157.28
+7033,Hex Nut,Brandi Neal,Velez-Lyons,23-01-2023,465.14,300.74,359.06
+5019,Hex Nut,Megan Johnson,Holt Inc,23-01-2023,111.81,73.57,84.41
+5234,Hex Nut,Dominic Hurst,Martin and Sons,23-01-2023,156.87,103.87,114.73
+2532,Hex Nut,Michelle Wells,Horn Group,23-01-2023,298.89,183.52,221.25
+4796,Hex Nut,Richard Chandler,Perez-Duncan,24-01-2023,341.58,211.98,270.51
+5675,Hex Nut,Gene Berry,Miller Ltd,24-01-2023,286.23,176.79,218.09
+7370,Hex Nut,Michael Sanders,"Vasquez, Williams and Miller",24-01-2023,407.28,264.22,311.89
+5598,Hex Nut,Tricia Allen,Edwards-Jacobson,25-01-2023,100.13,61.06,77.84
+3405,Hex Nut,Wendy Lowery,Vance Ltd,25-01-2023,73.73,50.95,55.86
+4643,Hex Nut,Bonnie Medina,Sullivan-Bradley,26-01-2023,490.21,340.74,376.54
+7490,Hex Nut,Kenneth Harrington,Hall LLC,27-01-2023,320.79,218.74,228.95
+8907,Hex Nut,Casey Thomas,"Larson, Fletcher and Kim",27-01-2023,335.54,230.82,261.44
+8879,Hex Nut,Jessica Brown,Lewis-Anderson,28-01-2023,310.69,193.03,232.33
+3549,Hex Nut,Mrs. Stephanie Maldonado,Young Group,28-01-2023,460.86,294.56,365.71
+2584,Hex Nut,Jeffrey Gill,Castillo-Bennett,28-01-2023,142.39,90.94,104.32
+5084,Hex Nut,Kenneth Wilson,Davis Inc,29-01-2023,229.86,155.8,179.24
+3719,Hex Nut,Robert Henry,Ramirez-Morgan,29-01-2023,73.42,48.17,53.85
+6803,Hex Nut,Amanda Wright,Aguirre-Smith,30-01-2023,407.59,272.6,314.46
+8455,Hex Nut,Gary Bailey,Gonzalez Ltd,31-01-2023,451.33,298.41,327.51
+8699,Hex Nut,Michael David,"Matthews, Bennett and Nichols",31-01-2023,215.2,131.46,162.87
+5740,Hex Nut,Lisa Gray,Ferguson-Miller,01-02-2023,86.28,55.54,67.94
+6344,Hex Nut,Sheila Davis,Adams Inc,01-02-2023,212.97,132.61,153.02
+3273,Hex Nut,Jeffery Garrett,"Wilson, Price and Kerr",01-02-2023,50.87,33.52,39.05
+5062,Hex Nut,Megan Page,Wilson-Ramirez,01-02-2023,85.6,52.35,65.51
+6795,Hex Nut,Jacob Hall,Payne LLC,02-02-2023,140.83,92.44,110.38
+4584,Hex Nut,Cheryl James,Hart Inc,02-02-2023,110.2,72.8,77.55
+9910,Hex Nut,Christopher Fox,"Shaw, Oneal and Hampton",02-02-2023,184.99,126.9,142.97
+1590,Hex Nut,Mike Mullins,Dixon LLC,03-02-2023,61.28,40.23,44.73
+9946,Hex Nut,Jennifer Good,Conner Inc,03-02-2023,94,62.16,72.65
+4981,Hex Nut,Michelle Rodriguez,Hernandez LLC,03-02-2023,226.08,141.9,174.54
+3997,Hex Nut,Mark Smith,Morris Group,03-02-2023,394.77,242.76,288.64
+3800,Hex Nut,Dwayne Maddox,Krueger Ltd,03-02-2023,261.58,170.36,199.09
+1846,Hex Nut,Jason Davis,White and Sons,05-02-2023,319.72,201.88,234
+6998,Hex Nut,Roberto Ramos,"Hayes, Avery and Wallace",06-02-2023,473.18,329.53,363.34
+7178,Hex Nut,Anthony Heath,Mccall Inc,06-02-2023,51.05,33.33,36.59
+5631,Hex Nut,Hayley Glover,"Ellison, Gomez and Austin",07-02-2023,292.81,190.67,208.55
+3215,Hex Nut,Susan Snow,Thompson Group,07-02-2023,209.91,138.56,154.16
+4244,Hex Nut,Jeffery Nixon,"Butler, Berry and Dyer",07-02-2023,78.51,54.23,61.01
+5232,Hex Nut,Douglas Harrison,Moore LLC,08-02-2023,447.27,304.46,319.06
+5892,Hex Nut,Nicholas Fernandez,Craig-Schroeder,08-02-2023,431.65,275.01,325.46
+5141,Hex Nut,Jessica Lawrence,Jackson Ltd,09-02-2023,152.49,105.39,114.63
+6138,Hex Nut,Robert Barber,"Adams, Mclean and Lewis",09-02-2023,114.97,76.36,83.46
+7388,Hex Nut,Lisa Campos,Turner-Ross,10-02-2023,233.63,153.28,175.75
+5251,Hex Nut,Brenda Price,Willis LLC,10-02-2023,324.53,205.3,242.81
+2590,Hex Nut,Daniel Morrow,"Reynolds, Harris and Franklin",11-02-2023,317.92,200.94,229.62
+1334,Hex Nut,Priscilla Hogan,"Francis, Hernandez and Kim",11-02-2023,447.22,290.94,341.43
+8141,Hex Nut,Craig Fuller,Nolan and Sons,11-02-2023,125.18,78.97,90.58
+1274,Hex Nut,Michael Daniels,Yates-Reed,11-02-2023,91.64,59.26,64.39
+2352,Hex Nut,Debra Hoffman,Cannon-White,11-02-2023,292.27,199.4,209.43
+6875,Hex Nut,Diana Guzman,"Smith, Griffith and Mills",12-02-2023,239.7,165.19,168.04
+5356,Hex Nut,Catherine Brown,"Wilson, Miles and Taylor",12-02-2023,467.85,326.57,333.42
+2956,Hex Nut,Hailey Harris,Love LLC,12-02-2023,138.19,93.07,103.49
+9443,Hex Nut,Megan Coleman MD,"Carter, Harris and Grant",12-02-2023,189.76,125.55,136.14
+9600,Hex Nut,Joanna Krueger,"Garcia, Church and Howell",12-02-2023,375.38,232.62,271.62
+7247,Hex Nut,Kathryn King,Miller-Conley,12-02-2023,482.49,310.81,384.34
+9592,Hex Nut,Jamie Carlson,Fisher Inc,13-02-2023,116.45,81.44,89.81
+3507,Hex Nut,Lynn Hampton,Harrington-Perez,13-02-2023,391.91,262.79,299.98
+8319,Hex Nut,Elizabeth Reynolds,Jackson-Mitchell,13-02-2023,426.82,274.08,318.25
+6164,Hex Nut,Christine Durham,Everett Ltd,14-02-2023,175.25,105.66,124.38
+5792,Hex Nut,Christy Ortiz,"Copeland, Stewart and Larson",14-02-2023,411.46,277.17,321.9
+9832,Hex Nut,Haley Hawkins DDS,"Tate, Chandler and Taylor",15-02-2023,365.81,249.34,283.09
+1819,Hex Nut,Stephanie Key,Williams-Pena,15-02-2023,276.24,169.31,218.99
+3190,Hex Nut,Jacob Grant,Wood Ltd,15-02-2023,147.6,95.2,115.81
+2150,Hex Nut,Vicki Hahn,Turner Group,15-02-2023,141.64,95.45,107.7
+4908,Hex Nut,Rachel Stein,Howell PLC,16-02-2023,310.83,201.59,226.17
+5976,Hex Nut,Jill Wang,"Shields, Leonard and Mccoy",17-02-2023,305.38,211.68,235.07
+5938,Hex Nut,Tiffany Jimenez,"Richardson, Rodriguez and Garner",17-02-2023,115.26,75.13,80.84
+6870,Hex Nut,Tracy Miller,Anderson Inc,17-02-2023,215.78,130.25,157.22
+9095,Hex Nut,Ms. Barbara Hess,Harris-Miles,18-02-2023,99.58,62.62,71.79
+4882,Hex Nut,Adam Logan,Collins-Chavez,18-02-2023,260.12,170.88,201.34
+1512,Hex Nut,Joshua Ramirez,"Davis, Sullivan and Huerta",18-02-2023,54.22,37.33,43.29
+9023,Hex Nut,Barry Mckinney,Tran-Morgan,19-02-2023,119.89,80.39,94.42
+7624,Hex Nut,Martin Jones,Smith-Moreno,20-02-2023,85.71,53.52,68.46
+6111,Hex Nut,Wendy Lewis,Evans-Welch,20-02-2023,407.01,253.17,300.15
+9144,Hex Nut,Sarah Hawkins,Cox and Sons,20-02-2023,67.05,46.92,53.37
+9706,Hex Nut,Ann Smith,"Foster, Farley and Townsend",20-02-2023,394.24,262.68,304.5
+4380,Hex Nut,Kelly Patterson,Smith Inc,21-02-2023,341.29,205.51,256.99
+3177,Hex Nut,Anthony Mejia,"Smith, Martinez and Sanchez",23-02-2023,67.05,46.35,53.3
+1093,Hex Nut,Linda Mccarthy,Collins-Jones,23-02-2023,161.26,97.97,117.72
+3594,Hex Nut,Chase Marquez,Zuniga PLC,23-02-2023,224.16,155.41,157.99
+8711,Hex Nut,Courtney Wolf,Buckley-Brooks,23-02-2023,498.03,335.21,382.94
+2471,Hex Nut,Eric Wilkins,"Singh, Marshall and Swanson",23-02-2023,463.9,295.89,370.22
+1074,Hex Nut,Dean Dominguez,Franco Ltd,24-02-2023,458.04,275.29,355.06
+7576,Hex Nut,Michael Morris,"Bowen, Scott and Young",24-02-2023,429.19,275.77,334.2
+3423,Hex Nut,Martin Wilson,Vega Group,24-02-2023,421.35,292.56,308.29
+8371,Hex Nut,Joseph Henderson,Howell Inc,25-02-2023,395.81,255.69,312.03
+9110,Hex Nut,Veronica Mann,Martin-Logan,25-02-2023,296.77,206.36,216.96
+9353,Hex Nut,William Nelson,"Sloan, Mcintyre and Hernandez",25-02-2023,446.45,271.3,313.51
+7957,Hex Nut,Jennifer George MD,"Gonzales, Walker and Nelson",26-02-2023,174.11,107.8,125.77
+9878,Hex Nut,James Hanson,Jackson Ltd,27-02-2023,165.32,101.32,120.13
+3225,Hex Nut,Lisa Landry,"Rice, Harrison and Arnold",27-02-2023,332.52,215.71,261.95
+7996,Hex Nut,Jeremy Adams,Griffin-Lin,28-02-2023,182.68,110.27,142.26
+5211,Hex Nut,Thomas Greene,Larson Inc,28-02-2023,384.61,264.92,278.19
+3358,Hex Nut,Carly Webster,Thomas Ltd,01-03-2023,102.75,66.74,77.11
+5202,Hex Nut,Jessica Hurst,Scott Inc,02-03-2023,411.79,262.38,305.79
+9148,Hex Nut,Charles Richards,Johnson-Davis,02-03-2023,217.88,133.87,170.58
+5728,Hex Nut,Charles Jones,Carpenter LLC,02-03-2023,163.17,114.1,126.83
+8535,Hex Nut,Ian Garner,"Baxter, Novak and Gates",02-03-2023,200.02,122.11,153.13
+3946,Hex Nut,William Gonzalez,"Scott, Armstrong and Lewis",02-03-2023,117.02,81.8,92.59
+7508,Hex Nut,Barry Archer,Mcgrath PLC,03-03-2023,241.71,157.57,175.17
+5839,Hex Nut,Kenneth Dawson,Murphy-Duran,03-03-2023,239.88,163.07,171.66
+1271,Hex Nut,Stephanie Smith,"Harrison, Burke and Davis",03-03-2023,285.11,195.96,214.3
+6069,Hex Nut,Alexa Johnson,Hendricks-Craig,04-03-2023,53.63,33.85,38.55
+8130,Hex Nut,Bryan Burke,Bryant-Nichols,04-03-2023,333.89,222.39,235.2
+5931,Hex Nut,Tina Fisher,Davis-Todd,04-03-2023,157.5,98.39,111.11
+7915,Hex Nut,Marcus Craig,"Spencer, Estrada and Crawford",04-03-2023,154.49,100.91,111.63
+9506,Hex Nut,Sally Mullins,Higgins-Silva,05-03-2023,73.89,49.81,54.5
+6697,Hex Nut,Brittany Moreno,Schneider Inc,05-03-2023,384.98,255.1,284.95
+7488,Hex Nut,William Gibson,Perkins-May,05-03-2023,281.58,175.12,218.12
+6105,Hex Nut,Dr. Gary Olson,Silva PLC,06-03-2023,328.18,223.77,231.93
+5021,Hex Nut,Jessica Williams,"Eaton, Weaver and Grant",06-03-2023,107.06,71.51,81.11
+3077,Hex Nut,Stuart Brown,Calderon Group,06-03-2023,103.67,67.23,80.54
+4046,Hex Nut,Ashley Leonard,"Wilson, Pierce and Bowman",07-03-2023,74.17,51.85,54.39
+8665,Hex Nut,Brandon Grant,Johnson and Sons,07-03-2023,88,61.54,65.19
+7088,Hex Nut,Tricia Jackson,"Rodriguez, May and Allen",07-03-2023,106.18,69.18,83.8
+9576,Hex Nut,Jacqueline Romero,Allen-Powers,07-03-2023,497.49,319.26,356.36
+5591,Hex Nut,Donna Heath,Murray and Sons,07-03-2023,444.81,308.58,343.43
+8825,Hex Nut,Robert Brock,Baldwin-Ramirez,07-03-2023,269.58,178.44,215.04
+8081,Hex Nut,Larry Trujillo,Thompson-Holland,07-03-2023,334.48,209.62,244.39
+4462,Hex Nut,Julian Morales,Hawkins-Sosa,07-03-2023,303.47,205.34,212.6
+4639,Hex Nut,Christina Hall,"Calhoun, Simmons and Marshall",08-03-2023,130.02,82.52,91.45
+7823,Hex Nut,Richard Buchanan,Harrell-Lynn,09-03-2023,383.12,258.84,290.62
+2268,Hex Nut,Donald Johnson,Maynard Inc,09-03-2023,368.16,232.2,266.89
+5381,Hex Nut,Ryan Yu,Simmons LLC,10-03-2023,355.44,234.67,255.57
+6064,Hex Nut,George Williams,Lopez Ltd,11-03-2023,300.11,204.89,211.65
+3337,Hex Nut,Nathan Wallace,Hobbs-Sloan,11-03-2023,434.16,282,322.92
+3031,Hex Nut,Sarah Zamora,Miller Inc,11-03-2023,448.34,286.71,357.11
+9086,Hex Nut,Shawn Jones,Taylor-Brown,14-03-2023,458.23,288.69,348.17
+3599,Hex Nut,Stephanie Lawrence,"Anderson, Smith and Erickson",14-03-2023,187.76,125.95,149.27
+4022,Hex Nut,Mark Smith,"Griffith, Roberts and Whitney",14-03-2023,462.06,308.26,342.84
+5765,Hex Nut,Stephanie Scott,"Vang, Brown and Martinez",15-03-2023,270.2,183.71,203.04
+6768,Hex Nut,Chris Klein,Hughes-Brown,15-03-2023,82.1,55.23,63.48
+4815,Hex Nut,Daniel Ramirez,Stewart-Bridges,16-03-2023,306.21,184.29,234.16
+2706,Hex Nut,Rhonda Huff,Stephens and Sons,16-03-2023,470.87,291.36,341.89
+5021,Hex Nut,Lisa Taylor,Bonilla-Graves,16-03-2023,260.16,167.26,191.61
+4948,Hex Nut,Melissa Hardin,Peterson-Bush,16-03-2023,194.65,120.55,148.68
+1178,Hex Nut,Ashley Crawford,Farrell-Young,16-03-2023,58.21,40.35,41.67
+3749,Hex Nut,Alexandria Hill,"Lee, Anderson and Anderson",16-03-2023,100.34,66.41,75.57
+4248,Hex Nut,Kelly Smith,Lee-Jones,16-03-2023,280.27,175.01,219.99
+2737,Hex Nut,Jerry Spence,Price LLC,16-03-2023,216.31,131.89,165.6
+1231,Hex Nut,Maria Barker DVM,"Smith, Fitzpatrick and Hardy",16-03-2023,190.19,126.93,141.2
+8501,Hex Nut,Ricky Jennings,James-Sanchez,17-03-2023,497.51,320.87,358.87
+6173,Hex Nut,Tony Moore DDS,Sandoval-Diaz,17-03-2023,222.92,141.61,160.88
+1804,Hex Nut,Susan Russell,"Rivera, Thompson and Garcia",18-03-2023,268.47,175.93,208.94
+7121,Hex Nut,Melissa Russell,"Smith, Williams and Fowler",18-03-2023,385.02,249.55,302.32
+5280,Hex Nut,Joseph Guerrero,Patel Inc,18-03-2023,396.01,275.93,312.95
+7203,Hex Nut,Jennifer Lyons,Gonzalez Group,18-03-2023,430.87,284.97,311.44
+3135,Hex Nut,Connor Cooper,Harris Group,18-03-2023,66.78,40.36,51.14
+9672,Hex Nut,Mary Flores,Williams Ltd,19-03-2023,340.99,207.41,245.99
+7052,Hex Nut,Kristen Tucker,"Johnson, Wilson and Hill",19-03-2023,448.79,300.39,356.26
+4238,Hex Nut,Lori Ibarra,Hughes-Brown,19-03-2023,372.9,253.64,286.83
+4094,Hex Nut,Stephanie Lane,Acevedo-Sparks,20-03-2023,324.52,207.62,233.87
+9648,Hex Nut,Tracey Adkins,Sheppard-Hayes,21-03-2023,124.32,80.12,88.51
+6635,Hex Nut,Sierra Rogers,Henderson PLC,21-03-2023,167.02,109.36,128.2
+6213,Hex Nut,Daniel Livingston,Henry-Phillips,21-03-2023,221.09,143.44,165.1
+7944,Hex Nut,David Hall,Figueroa-Mullins,21-03-2023,324.1,203.95,233.68
+2293,Hex Nut,Maria Wilson,Berg PLC,23-03-2023,287.86,186.56,211.38
+5326,Hex Nut,Wendy Gonzalez,"Oneill, Roman and Trujillo",23-03-2023,265.29,179.65,187.78
+3229,Hex Nut,Juan Ferguson,"Spears, Baird and Navarro",23-03-2023,287.3,197.19,225.73
+1400,Hex Nut,Elizabeth Smith,"Mills, Walker and Meyer",23-03-2023,354.94,243.96,266.45
+7604,Hex Nut,Laurie Young,Morgan Group,24-03-2023,496.14,310.2,350.04
+6644,Hex Nut,David Randolph,Simmons PLC,24-03-2023,471.45,299.12,374.32
+7473,Hex Nut,Adam Hickman,"Davis, Hawkins and Smith",25-03-2023,489.91,315.1,344.12
+9038,Hex Nut,Daniel Jones,Hill PLC,25-03-2023,310.21,212.14,217.46
+1973,Hex Nut,David Williams,Castillo Inc,25-03-2023,358.81,237.2,269.75
+4178,Hex Nut,Cody White,"Hall, Morris and Cummings",25-03-2023,433.5,273.72,311.88
+5673,Hex Nut,Robert Nelson,"Obrien, Harper and Burke",26-03-2023,326.36,196.69,257.69
+2380,Hex Nut,John Ferguson,"Cabrera, Foley and House",26-03-2023,308.51,195.98,229.65
+1700,Hex Nut,Heather Brown,Pugh-Patterson,26-03-2023,320.07,208.32,238.97
+5316,Hex Nut,Tiffany Warner,Bass LLC,26-03-2023,155.52,93.61,111.11
+2308,Hex Nut,Matthew Cummings,Blake PLC,27-03-2023,309.8,203,246.66
+8459,Hex Nut,Tanya Fisher,Hernandez Inc,28-03-2023,252.36,168.95,200.44
+2542,Hex Nut,Justin Diaz,Diaz-Jones,28-03-2023,339.67,219.8,270.19
+3323,Hex Nut,Elizabeth Hensley,"Gardner, Fuller and Edwards",29-03-2023,375.53,241.35,284.5
+8441,Hex Nut,Mrs. Diana Carey,"Edwards, Long and Garcia",29-03-2023,269.94,165.44,204.36
+3150,Hex Nut,Shane Lowe,"Smith, Mcguire and Carlson",29-03-2023,204.6,131.75,161.97
+7894,Hex Nut,Thomas Olson,Barnes-Anderson,29-03-2023,393.59,263.75,284.84
+9533,Hex Nut,Nicholas Howell,Montgomery-Johnson,30-03-2023,162.38,101.01,129.2
+3491,Hex Nut,Carolyn Schwartz,Hood-Campbell,30-03-2023,481.23,292.06,368.34
+1841,Hex Nut,Sandra White,Hoffman-Freeman,30-03-2023,283.64,188.49,199.38
+8542,Hex Nut,David Miller,Ayers-Cruz,30-03-2023,330.1,201.23,252.63
+3500,Hex Nut,Vincent Watson,Ellis PLC,31-03-2023,342.09,238.43,265.66
+8214,Hex Nut,Cody Gibson,Santana-Hicks,31-03-2023,59.82,36.27,44.65
+1794,Hex Nut,Michael Harvey,"Foster, Rogers and Dyer",31-03-2023,496.87,338.95,368.18
+4280,Hex Nut,Steven Hurst,Zhang-Sims,31-03-2023,236.34,155.09,178.16
+9620,Hex Nut,Ashley Chen,Downs LLC,31-03-2023,350.4,213.45,248.72
+3115,Hex Nut,Jacob Warren,Berry-Gonzalez,31-03-2023,277.59,184.8,216.51
+9389,Hex Nut,Brandon Harding,"Bryan, Lucas and Adams",01-04-2023,163.61,108.97,120.84
+8040,Hex Nut,Julie Powers,Washington PLC,01-04-2023,122.28,84.08,87.31
+9639,Hex Nut,Haley Shaffer,Bradley-Crane,01-04-2023,114.81,75.51,91.77
+2732,Hex Nut,Terri Jones,Farrell Group,02-04-2023,439.13,288.14,321.96
+3699,Hex Nut,Kevin Rodriguez Jr.,"Lee, Thomas and Bradley",02-04-2023,377.44,236.35,273.39
+4248,Hex Nut,Mark Hicks,King and Sons,02-04-2023,375.07,249.31,268.45
+1197,Hex Nut,Kirsten Wilson,"Anderson, Mcdaniel and White",03-04-2023,323.69,202.89,229.85
+5810,Hex Nut,Melissa Morgan,"Lawrence, Johnson and Miller",03-04-2023,222.49,144.65,156.64
+2845,Hex Nut,Kerry Manning,Welch-Bennett,03-04-2023,261.54,163.04,194.4
+9491,Hex Nut,Diane Rodriguez,Smith-Mccall,04-04-2023,318.67,201.06,243.62
+4404,Hex Nut,Lisa Stewart,Hart-Reeves,05-04-2023,84.86,57.46,60.01
+7359,Hex Nut,Rita Mills,Marshall-Hall,06-04-2023,132.52,91.29,98.33
+7792,Hex Nut,Melinda Stevens,"Horton, Lamb and Lynch",06-04-2023,145.61,100.25,102.39
+8075,Hex Nut,Christopher Jones,Turner PLC,07-04-2023,446.25,299.44,351.47
+9963,Hex Nut,Isabel Thomas,Larsen Group,07-04-2023,262.1,175.3,206.12
+7840,Hex Nut,Jennifer Perkins,"Jones, Ramsey and King",07-04-2023,478.83,313.75,369.23
+3982,Hex Nut,Dr. Sarah Ray DDS,Edwards and Sons,08-04-2023,135.93,86.97,102.87
+5664,Hex Nut,Shelby Perry,"Duffy, Kaufman and Andrade",09-04-2023,194.52,122.45,136.95
+5095,Hex Nut,Scott Velasquez,Johnson and Sons,09-04-2023,111.51,73.98,81.41
+1415,Hex Nut,Richard Wilson,"Campbell, Anthony and Miller",10-04-2023,129.09,83.23,94.89
+3072,Hex Nut,Deborah Andrews,Roy-Holmes,10-04-2023,470.69,317.59,358.93
+3024,Hex Nut,Megan Rodriguez,"Quinn, Davis and Woods",11-04-2023,278.28,182.29,212.12
+3026,Hex Nut,Mary Mcdonald,"Wilson, Jenkins and Martinez",12-04-2023,188.55,115.66,135.14
+8174,Hex Nut,Victoria Lam,Turner Ltd,13-04-2023,251.49,155.94,194.67
+3210,Hex Nut,Lisa Wilson,"Chaney, Jones and Lynn",13-04-2023,236.12,161.89,171.42
+8300,Hex Nut,Angela Smith,"Becker, Herman and Turner",13-04-2023,300.83,195.67,227.97
+2031,Hex Nut,Tiffany Barnett,Hale-Davis,14-04-2023,276.16,173.22,217.86
+2686,Hex Nut,Amber Watts,"Young, Wall and Johnson",15-04-2023,444.28,309.35,319.75
+8393,Hex Nut,Steven Miller,"Allen, Jones and Young",15-04-2023,344.04,234.27,260.1
+1485,Hex Nut,Amanda Smith,Jones Ltd,16-04-2023,69.8,43.08,55.08
+1558,Hex Nut,Ashley Rodriguez DDS,Mccoy-Tucker,17-04-2023,314.47,203.36,231.86
+2386,Hex Nut,Linda Norris,Adams-Williams,17-04-2023,135.94,90.29,104.15
+9345,Hex Nut,Ashley Alexander,Yates-Ryan,17-04-2023,219.46,153.18,161.74
+4713,Hex Nut,Michael Wright,Bryant PLC,17-04-2023,131.82,82.17,103.16
+2720,Hex Nut,Eric Alvarez,"Mccoy, Hall and Rice",18-04-2023,186.09,117.73,142.23
+7501,Hex Nut,Linda Burgess,Murray-Garcia,18-04-2023,241.52,167.87,169.42
+3393,Hex Nut,Amber Osborne,Leon and Sons,19-04-2023,234.29,150.18,174.89
+9220,Hex Nut,James Herman,"Reed, Kane and Wang",19-04-2023,250.34,165.3,198.28
+9919,Hex Nut,Victoria Diaz,Liu Group,19-04-2023,482.37,324.88,341.23
+4313,Hex Nut,Lauren Ramirez,Horne PLC,19-04-2023,106.16,69.18,84.7
+9879,Hex Nut,Melissa Wallace,Durham and Sons,19-04-2023,227.94,139.21,178.41
+7499,Hex Nut,Don Cruz,"Bennett, Mack and Greer",19-04-2023,363.08,240.72,286.49
+9511,Hex Nut,Heather Mcdonald,Meyer-Bailey,20-04-2023,148.01,95.59,105.12
+7556,Hex Nut,Michelle Berry,Lewis-Freeman,20-04-2023,122.02,79.65,87.09
+7014,Hex Nut,David Delacruz,Shaw Ltd,20-04-2023,458.88,307.22,362.12
+3825,Hex Nut,Amanda Crawford,Kim PLC,20-04-2023,58.37,39.61,43.58
+9311,Hex Nut,Nancy Vasquez,"Lynch, Lawson and Dillon",21-04-2023,474.63,305.55,341.09
+3144,Hex Nut,Steven Evans,Miller Ltd,22-04-2023,442.86,283.14,312.98
+8563,Hex Nut,Anthony Miller,Jackson-Jefferson,22-04-2023,479.79,335.22,379.64
+3524,Hex Nut,Luis Hernandez,Lewis LLC,22-04-2023,60.81,36.93,46.85
+4974,Hex Nut,Alexandra Mcclain,Mckee-Porter,22-04-2023,179.19,116.65,133.74
+4566,Hex Nut,Mark Garcia,"Key, Wilson and Woodward",23-04-2023,61.41,42.79,44.05
+8363,Hex Nut,Paul Mann,Watson-Gonzalez,23-04-2023,207.03,129.11,163.62
+1112,Hex Nut,Jason Soto,Coffey LLC,23-04-2023,471.42,285.31,350.98
+3507,Hex Nut,Misty Coleman,"Dixon, Miller and Sims",24-04-2023,150.27,101.44,116.04
+4959,Hex Nut,Kathleen Chandler,Bennett LLC,26-04-2023,475.02,292.55,350.88
+9459,Hex Nut,Jennifer Sharp,Palmer Group,26-04-2023,233.87,145.33,181.33
+2337,Hex Nut,Dylan Valdez,Sutton PLC,27-04-2023,495.52,341.38,377.52
+1950,Hex Nut,Elizabeth Perez,Parks Ltd,27-04-2023,385.18,239.92,282.13
+3920,Hex Nut,Jonathan Jones DVM,"Carroll, Davis and Flynn",27-04-2023,363.17,247.47,269.16
+2969,Hex Nut,Christopher Jackson,Garner-Lee,28-04-2023,344.8,231.05,261.45
+5307,Hex Nut,Wanda Liu DVM,Good Inc,28-04-2023,347.81,217.74,249.3
+8149,Hex Nut,Rachel Dawson,Bentley-Nelson,29-04-2023,157.92,100.95,115.1
+3343,Hex Nut,Stephen Doyle,Reynolds-Bennett,29-04-2023,58.22,37.74,41.94
+1329,Hex Nut,James Maxwell,Snyder-Tate,30-04-2023,363.5,226.4,259.87
+4290,Hex Nut,Kristen Page,Edwards Inc,30-04-2023,493.46,308.17,380.03
+9586,Hex Nut,Lisa Wells MD,Wright PLC,01-05-2023,94.1,57.3,66.71
+7890,Hex Nut,Savannah Collier,Ewing Group,01-05-2023,409.7,260.64,318.58
+7051,Hex Nut,Cole Tate,Calhoun-George,01-05-2023,391.53,263.21,302.73
+4997,Hex Nut,Lisa Wade,Smith LLC,02-05-2023,165.01,114.87,124.79
+5872,Hex Nut,Joseph Robinson,Edwards Group,02-05-2023,104.96,71.45,80.26
+7312,Hex Nut,Tamara Lee,Martin-Evans,02-05-2023,234.86,140.96,171.71
+6231,Hex Nut,Thomas Robertson,Young Ltd,02-05-2023,420.74,280.91,304.39
+9354,Hex Nut,Diana Taylor,"Lee, Watson and Taylor",02-05-2023,81.05,51.11,57.7
+3372,Hex Nut,Kimberly Perry,Spencer LLC,02-05-2023,207.57,142.71,145.46
+6842,Hex Nut,Meagan Bonilla,"Sanchez, Savage and Arnold",03-05-2023,149.3,91.88,113.04
+1530,Hex Nut,David Cervantes,Parker Inc,03-05-2023,375.48,248.78,268.75
+4191,Hex Nut,Renee Jenkins,Chavez-Vargas,03-05-2023,321.19,194.09,246.32
+4372,Hex Nut,Aaron Goodwin,Buchanan Inc,04-05-2023,79.96,50.88,59.97
+1229,Hex Nut,Robin Hughes,"Tanner, Gilbert and White",05-05-2023,220.46,135.54,168.93
+4265,Hex Nut,Henry Flores,Mcclain-Dennis,06-05-2023,261.83,163.76,198.33
+2322,Hex Nut,Kenneth Meyer,Gutierrez and Sons,06-05-2023,491.94,297.74,392.48
+7608,Hex Nut,William Vasquez,Wood-Daniels,06-05-2023,77.03,49.21,60.05
+8580,Hex Nut,Kimberly Morris,"Clayton, Owen and Frey",06-05-2023,406.11,282.31,317.63
+6245,Hex Nut,Michael Aguirre,Horton-Rojas,07-05-2023,476.84,313.91,379.83
+5575,Hex Nut,Michael Herrera,Banks Inc,07-05-2023,186.63,129.05,141.81
+4626,Hex Nut,Joshua Franco,Dennis-Montes,07-05-2023,56.15,38.52,40.29
+6299,Hex Nut,Mr. Mark Allen,"Stone, Oliver and Torres",07-05-2023,141.03,94.31,111.5
+5507,Hex Nut,Mathew Hurst,Pacheco PLC,08-05-2023,94.52,60.24,74.38
+7412,Hex Nut,Cynthia Braun,Moore-Juarez,08-05-2023,251.8,152.05,177.63
+9361,Hex Nut,Mr. Adam Barnett,Parker-Stevens,08-05-2023,168.74,107.09,130.46
+3390,Hex Nut,Deborah Vargas,"Brooks, Wilson and Orr",08-05-2023,279.48,187.71,205.49
+7975,Hex Nut,Mr. Evan Cochran,Marshall-Huffman,08-05-2023,349.61,219.88,253.6
+4558,Hex Nut,Jessica Ortiz,Turner-Miller,08-05-2023,278.99,185.04,222.97
+7873,Hex Nut,Jessica Miller DDS,Burke Group,08-05-2023,86.09,53.23,64.03
+9684,Hex Nut,Marissa Cox,Martin-Perez,09-05-2023,279.05,183.34,196.41
+1185,Hex Nut,Jacob Gonzales,"Robinson, Garcia and Wells",09-05-2023,429.07,273.2,312.13
+3459,Hex Nut,Zachary Chambers,Smith-Reyes,09-05-2023,386.27,238.43,286.25
+7598,Hex Nut,Donald James,"George, Allison and Rojas",10-05-2023,437.53,304.47,321.53
+4216,Hex Nut,Robert Wood,Allen PLC,10-05-2023,401.16,255.54,317
+1162,Hex Nut,David Ross,Middleton PLC,10-05-2023,89.13,57.63,63.47
+3176,Hex Nut,Timothy Smith,"Mccarty, Armstrong and Robertson",11-05-2023,307.8,210.63,219.72
+8722,Hex Nut,Scott Gray,Kelley LLC,11-05-2023,299.17,195.27,231.85
+8231,Hex Nut,Erik Miller,"Pacheco, Guzman and Cross",11-05-2023,114.95,78.84,83.22
+2881,Hex Nut,Beth Dougherty,Stewart-Montgomery,12-05-2023,365.37,234.62,279.44
+3751,Hex Nut,Kelly Hayes,Clayton-Perez,12-05-2023,151.18,93.69,112
+7513,Hex Nut,Dustin Gibson,Arellano PLC,13-05-2023,267.65,179.22,202.76
+1407,Hex Nut,Sarah Sanchez,Livingston-Vaughan,13-05-2023,441.29,268.46,327.7
+9508,Hex Nut,Paul Cisneros,Edwards-Wheeler,13-05-2023,260.48,168.61,191.91
+1083,Hex Nut,Amber Thompson,Cervantes-Bell,13-05-2023,286.71,178.09,213.84
+8374,Hex Nut,Gabriel Johnston,Smith Ltd,13-05-2023,120.7,81.34,91.53
+5366,Hex Nut,Janet Turner,"Jarvis, Ward and Shah",13-05-2023,443.88,301.47,343.74
+3600,Hex Nut,Greg Wilson,Mack-Hester,13-05-2023,246.75,154.17,196.49
+7370,Hex Nut,John Phillips,"Miller, Snyder and Gardner",13-05-2023,486.24,336.43,357.84
+5139,Hex Nut,Robert Ramos,"Rodriguez, Robinson and Oliver",14-05-2023,314.19,215.38,250.86
+3163,Hex Nut,Thomas Richardson,"Rivera, Maldonado and Chavez",14-05-2023,268.52,171.28,202.91
+4722,Hex Nut,Tom Sanders,Simmons Group,14-05-2023,422.02,274.72,327.89
+8201,Hex Nut,Jeffrey Martinez,"Wright, Newton and Anthony",14-05-2023,499.01,314.43,354.66
+3982,Hex Nut,Stacie Jenkins,Terry-Hart,15-05-2023,477.84,323.37,369.41
+6079,Hex Nut,Blake Shelton,Sullivan-Kirby,16-05-2023,257.77,166.3,205.08
+5353,Hex Nut,Jesse Waller,"Gonzalez, Mata and Cooper",16-05-2023,485.22,299.55,353.98
+4259,Hex Nut,Jeremiah Lopez,Jimenez and Sons,16-05-2023,288.18,173.32,224.04
+3755,Hex Nut,Nicholas Adams,Fuentes-Sutton,17-05-2023,382.5,233.11,286.28
+5995,Hex Nut,Sarah Pearson,"Arellano, Martin and Moore",18-05-2023,294.51,198.34,227.59
+8676,Hex Nut,Jessica Lowe,"York, Saunders and Durham",18-05-2023,478.64,306.89,339.24
+8260,Hex Nut,Tammy Long,Simpson Inc,18-05-2023,312.21,194.7,231.9
+5461,Hex Nut,Ms. Amanda Gonzales,"Ali, Allen and Mann",18-05-2023,70.74,45.85,55.53
+6195,Hex Nut,Craig Hines,Mccormick Inc,18-05-2023,219.03,136.86,173.78
+3810,Hex Nut,Daniel Rowe,Miller PLC,18-05-2023,62.44,41.02,48.75
+6516,Hex Nut,Angela Armstrong,"Dean, Trevino and Gill",19-05-2023,481,317.67,349.24
+2007,Hex Nut,Jeffrey Mercer,"Mendez, Stone and Lambert",20-05-2023,139.03,88.55,102.55
+3994,Hex Nut,Erik Smith,Smith-Richardson,20-05-2023,56.14,36.23,39.34
+6559,Hex Nut,Angela Wilson,Guzman-Black,20-05-2023,101.1,65.51,78.85
+2024,Hex Nut,Gregory Smith,Smith-Davis,21-05-2023,299.85,205.1,239.83
+6541,Hex Nut,Karen Wagner,"Castillo, Gray and Gibson",21-05-2023,390.93,255.03,281.33
+2935,Hex Nut,Kristin Stevenson,Thomas-Wyatt,23-05-2023,261.82,179.31,193.39
+8141,Hex Nut,Jeffrey Rivera,"Thompson, Guerra and Davis",23-05-2023,344.51,233.06,250.54
+7768,Hex Nut,Thomas Coleman,Scott PLC,23-05-2023,143,98.15,111.9
+1188,Hex Nut,Michaela Washington,Rodriguez-Andrews,23-05-2023,375.9,262.46,290.82
+4852,Hex Nut,April Adkins,Rollins-Richards,23-05-2023,164.71,98.87,125.59
+5682,Hex Nut,Shelly Schmitt,"Graham, Bush and Wolfe",23-05-2023,139.37,87.74,103.58
+9563,Hex Nut,Brandon Holden,Horne and Sons,24-05-2023,207.72,143.26,164.08
+1880,Hex Nut,Tracy Cook,Rodriguez Group,24-05-2023,480.61,333.78,363.14
+8522,Hex Nut,Manuel Morales,Garrison Group,25-05-2023,59.42,35.81,41.75
+7849,Hex Nut,Aaron Williams,Jones Ltd,25-05-2023,184.97,116.55,135.96
+2785,Hex Nut,Morgan Taylor,Lynch and Sons,26-05-2023,472.92,299.55,360.16
+3396,Hex Nut,Denise Edwards,Watts Inc,26-05-2023,152.98,101.68,111.82
+5179,Hex Nut,Andrew Green,"Chan, Kelly and Thomas",26-05-2023,132.87,90.99,104.18
+4311,Hex Nut,Jonathan Montes MD,"Davila, Miller and Johnson",26-05-2023,405.09,274.16,309.01
+7073,Hex Nut,Samantha Jones,Wright Ltd,27-05-2023,343.83,217.14,272.47
+7397,Hex Nut,Kyle Wheeler,Mercado-Hicks,27-05-2023,331.24,209.76,234.01
+5021,Hex Nut,Donald Ward,Jackson-Hood,27-05-2023,381.31,253.37,292.66
+2149,Hex Nut,Ricardo Stewart,Reed-Jacobson,27-05-2023,155.89,108.79,122.13
+5992,Hex Nut,Victoria Moran DVM,Mitchell PLC,27-05-2023,410.87,264.37,319.37
+4060,Hex Nut,Heather Diaz,Barrett LLC,27-05-2023,269.27,173.78,209.8
+4731,Hex Nut,Chad Williams,"Rodriguez, Leonard and Patterson",27-05-2023,271.94,167.29,215.39
+3626,Hex Nut,Lori Walker,"Phillips, Moore and Allen",28-05-2023,320.9,203.29,247.22
+7180,Hex Nut,Robert Burke,Flores Ltd,28-05-2023,356.92,228.55,251.09
+4652,Hex Nut,Jessica Sanders,Rodriguez-Kennedy,28-05-2023,484.02,291.05,349.54
+6361,Hex Nut,Bailey Green,Beck-Campbell,30-05-2023,260.59,173.28,202.47
+4820,Hex Nut,Mrs. Courtney Delgado MD,Nixon-Buckley,30-05-2023,339.79,223.13,257.05
+8869,Hex Nut,Brad Delgado,Ramos Inc,31-05-2023,210.4,138.63,151.43
+3046,Hex Nut,Jose Anderson,"Gibbs, Wilson and Johnson",01-06-2023,193,129.16,140.23
+2770,Hex Nut,Kevin Martin,Wright-Pitts,02-06-2023,235.42,160.33,170.96
+4597,Hex Nut,Erica Farley,Douglas-Grant,02-06-2023,463.99,289.32,343.18
+7093,Hex Nut,David Jefferson,Thomas Group,02-06-2023,489.06,310.32,344.89
+2474,Hex Nut,Amanda Morgan,"Houston, Howell and Alvarez",02-06-2023,92.69,57.72,73.49
+3122,Hex Nut,Christopher Jennings,"Patton, Huerta and Li",03-06-2023,116.71,70.25,87.14
+4143,Hex Nut,Jasmine Bowen,Payne-Taylor,03-06-2023,309.95,206.65,217.05
+7943,Hex Nut,Emily Taylor,"Rogers, Mckenzie and Bell",04-06-2023,239.37,149.24,179.41
+4571,Hex Nut,Michael Bell,Hancock Group,04-06-2023,498.51,309.77,394.87
+9437,Hex Nut,Austin Castillo,"Craig, Burns and Anderson",04-06-2023,194.63,128.42,142.05
+1597,Hex Nut,Aaron Martinez,Cruz-Chan,04-06-2023,323.52,219.47,242.2
+2361,Hex Nut,Nancy Henderson,Jacobs-Moreno,05-06-2023,496.46,316.98,364.84
+4621,Hex Nut,Sheri Lawrence,"Gross, Tucker and Phillips",05-06-2023,385.99,252.53,275.41
+1734,Hex Nut,Nathan White,Luna LLC,05-06-2023,318.23,211.47,229.96
+2470,Hex Nut,Stephanie Thomas,"Parks, Chen and Wilkins",07-06-2023,441.42,275.14,310.56
+7066,Hex Nut,Regina Huffman,Alvarez PLC,07-06-2023,272,186.94,196.93
+3472,Hex Nut,Crystal Smith,Reed and Sons,07-06-2023,134.99,88.95,101.27
+8119,Hex Nut,Thomas Cunningham,Ferguson-Rollins,07-06-2023,59.84,37.27,46.33
+4600,Hex Nut,Tiffany Jensen,Pierce and Sons,07-06-2023,72.17,43.31,52.77
+7064,Hex Nut,Haley Rodgers,Ray Ltd,07-06-2023,271.3,181.11,206.08
+1160,Hex Nut,Elizabeth Mcdaniel,"Mills, Wilcox and Freeman",07-06-2023,152.9,106.21,109.74
+2952,Hex Nut,Valerie Hughes,Wagner-Brown,07-06-2023,89.95,59.11,70.38
+7807,Hex Nut,Elaine Hart,"Bentley, Reyes and Johnson",07-06-2023,97.33,67.6,72.01
+3908,Hex Nut,Sara Williams,"Jackson, Branch and Ray",08-06-2023,60.54,39.12,46.24
+7354,Hex Nut,Sandra Morgan,Schultz Inc,08-06-2023,135.09,86.25,105.6
+5647,Hex Nut,Keith Green,"Johnson, King and Spencer",08-06-2023,325.86,227.31,229.9
+7060,Hex Nut,Mary Gonzalez,Beck-Brooks,09-06-2023,264.67,175.05,208.39
+2540,Hex Nut,Joyce Peterson,Holmes Inc,09-06-2023,161.66,107.89,114.49
+1599,Hex Nut,Johnathan Brown,White-Alvarez,09-06-2023,494.42,315.49,386.15
+3846,Hex Nut,Hannah Shepherd,Vincent PLC,09-06-2023,154.07,105.38,112.44
+2915,Hex Nut,Christopher Smith,Johnson-Gomez,09-06-2023,131.13,87.75,92.67
+7729,Hex Nut,Julia Crawford,Taylor-Richard,10-06-2023,116.26,72.99,84.38
+4453,Hex Nut,Melissa Watson,Fleming Inc,11-06-2023,379.24,247.26,297.35
+4382,Hex Nut,Rachel Rogers,"Mcdonald, Hunt and Thompson",11-06-2023,444.92,270.84,354.9
+8786,Hex Nut,Joseph West,Thompson Inc,12-06-2023,334.53,220.63,258.5
+7137,Hex Nut,Dr. Colin Santos,"Barber, Harding and Abbott",12-06-2023,166.83,101.43,133.25
+2901,Hex Nut,James Bennett,"Reed, Knapp and Conner",12-06-2023,492.54,322.84,369.92
+2011,Hex Nut,Kimberly Perry,Hunt Group,13-06-2023,492.25,319.58,379.9
+1759,Hex Nut,Jonathan Smith,Jenkins-Bowman,13-06-2023,175.22,121.58,125.5
+5332,Hex Nut,Sheila Ward,Robertson-Ross,13-06-2023,480.39,319.76,358.15
+4008,Hex Nut,Catherine Byrd,"Navarro, Hall and Cordova",13-06-2023,74.08,50.23,53.7
+2434,Hex Nut,April Jackson,Rogers LLC,14-06-2023,398.66,263.24,282.36
+3573,Hex Nut,Sara Peterson,"Harmon, Walls and James",14-06-2023,281.58,181.29,217.7
+2417,Hex Nut,Andrea Bailey,Aguirre Ltd,14-06-2023,458.26,286.04,326.07
+2986,Hex Nut,Valerie Brown,Barnes Ltd,14-06-2023,398.41,262.08,286.33
+7310,Hex Nut,Janice Lyons,Best-Watson,14-06-2023,406.52,245.22,290.7
+9757,Hex Nut,Terry Collins,Black Ltd,14-06-2023,336.02,217.62,238.93
+2602,Hex Nut,Tiffany Wang,"Scott, Crawford and Moore",15-06-2023,211.68,144.18,149.09
+1141,Hex Nut,Troy Diaz,"Stanley, Harris and Martin",17-06-2023,394.53,258.5,292.98
+2670,Hex Nut,Julie Harris,"Brooks, Vincent and Hicks",17-06-2023,247.09,163.96,190.99
+6628,Hex Nut,Michael Hale,Brown-Wilkins,17-06-2023,387.09,237.85,290.5
+6684,Hex Nut,Jenna Ingram,"Cole, Smith and Parker",17-06-2023,450.25,308.92,329.86
+7060,Hex Nut,Joshua Zavala,Lewis and Sons,17-06-2023,161.13,101.66,113.53
+7364,Hex Nut,Vanessa Brown,"Roberts, Rodriguez and Wolfe",18-06-2023,59.63,40.81,47.51
+7841,Hex Nut,Suzanne Poole,Heath and Sons,18-06-2023,180.06,112.58,128.63
+9650,Hex Nut,Linda Willis,"Garcia, Hawkins and Wallace",19-06-2023,271.03,164.44,214.11
+5801,Hex Nut,Kimberly Green,Boyd Inc,19-06-2023,338,206.52,249.93
+9646,Hex Nut,Christopher Lopez,"Velez, Rodriguez and Carlson",19-06-2023,421.88,267.98,327.39
+8839,Hex Nut,Amy Allen,"Miller, Castro and Hansen",19-06-2023,331.18,228.68,250.74
+4728,Hex Nut,Jeff Santos,"Coleman, Rodriguez and Lawson",20-06-2023,69.79,45.1,55.42
+3273,Hex Nut,Mr. Zachary Bell,Martin Inc,20-06-2023,79.47,55.02,59.02
+6559,Hex Nut,Sean Burton,"Roy, Crosby and Turner",20-06-2023,381.93,234.99,290.65
+2886,Hex Nut,Shelby Anderson,Johnson-Hurley,20-06-2023,265.08,181.07,188.73
+7115,Hex Nut,Madison Ramirez,Crawford PLC,21-06-2023,485.07,328.97,381.56
+1002,Hex Nut,Tara Aguilar,"Sandoval, Klein and Davis",21-06-2023,178.25,117.13,142
+6772,Hex Nut,Seth Arias,Williams Ltd,22-06-2023,491.64,318.02,366.71
+3590,Hex Nut,Mr. Caleb Hamilton,Harrison and Sons,22-06-2023,309.53,211.07,246.04
+5747,Hex Nut,Michael Dawson,Hernandez-Solis,22-06-2023,297.52,202.28,228.64
+7837,Hex Nut,Carl Sanchez,"Evans, Jones and Smith",23-06-2023,238.15,159.37,185.1
+7824,Hex Nut,Mark Hubbard DVM,Murphy-Kelly,24-06-2023,422.1,269.6,327.82
+6452,Hex Nut,Kayla Peters,"Obrien, Martin and Martin",24-06-2023,367.88,221.53,260.86
+5005,Hex Nut,Cristina Lopez,"Cummings, Hunt and Larson",24-06-2023,89.14,53.84,69.26
+8492,Hex Nut,Rebecca Ramirez,"Smith, Villegas and Sawyer",25-06-2023,248.27,159.19,190.88
+8934,Hex Nut,John Benson,Cook Ltd,25-06-2023,390.12,256.68,311.11
+9480,Hex Nut,Edward Harrington,Love Group,26-06-2023,339.41,209.5,239.33
+5385,Hex Nut,Margaret Nelson,Clark-Jacobs,26-06-2023,259.8,156.64,204.81
+2257,Hex Nut,Crystal Fuentes,Rodgers-Miller,27-06-2023,67.6,44.79,52.03
+6283,Hex Nut,Tabitha Jackson,Lopez-Farrell,27-06-2023,382.1,244.79,304.36
+5656,Hex Nut,Sara Roberts,Cook and Sons,28-06-2023,179.9,112.45,127.55
+5952,Hex Nut,Sarah Sanchez,Hood-Fuentes,28-06-2023,481.02,323.29,376.14
+5968,Hex Nut,Sherry Andersen,Little and Sons,28-06-2023,293.57,190.07,207.26
+4802,Hex Nut,Thomas Harris,Brown PLC,29-06-2023,298.75,200.54,236.86
+2803,Hex Nut,Brian Hoffman,Heath-Lozano,30-06-2023,476.02,292.25,375.5
+4870,Hex Nut,Charles Rodriguez,Grant Ltd,30-06-2023,492.78,314.41,389.6
+6871,Hex Nut,Jorge Yu,"Guerrero, Hawkins and Hogan",30-06-2023,419.3,256.66,295.63
+4993,Hex Nut,Olivia Daugherty,Griffin-Clarke,30-06-2023,480.55,318.5,337.07
+3397,Hex Nut,Clinton Kelly,Henderson Inc,01-07-2023,200.04,136.39,140.93
+3669,Hex Nut,Jessica Barnes,"Griffin, Harmon and Ponce",02-07-2023,469.23,289.18,330.86
+8382,Hex Nut,Dominique Bentley,"Gomez, Cunningham and Gonzalez",02-07-2023,382.58,253.85,288.24
+4110,Hex Nut,Rachel Robles,Donaldson Ltd,02-07-2023,428.33,295.36,306.33
+4171,Hex Nut,Tammy Morales,"Williams, Moore and Warren",02-07-2023,108.14,73.27,82.34
+9473,Hex Nut,Angela Perry,Williams-Zimmerman,03-07-2023,414.4,252.26,295.47
+4822,Hex Nut,Dustin Brown,Dawson-Gutierrez,04-07-2023,313.46,199.75,231.46
+6750,Hex Nut,Timothy Gomez,Rosario Ltd,04-07-2023,207.51,125.47,148.76
+8226,Hex Nut,Courtney Paul,"Wright, Brown and Turner",04-07-2023,450.57,291.64,323.42
+8893,Hex Nut,Jonathan Jackson,"Mueller, Cole and Sparks",05-07-2023,162.93,98.36,127.98
+2385,Hex Nut,Heather Robinson,"Nguyen, Hernandez and Rios",05-07-2023,425.12,280.01,310.42
+8369,Hex Nut,Adam Kelly,Peck PLC,05-07-2023,497.66,308.82,387.26
+6807,Hex Nut,Cole Ray,Shelton-Ramirez,05-07-2023,101.45,63.34,71.39
+2280,Hex Nut,Mario Ward,"West, Mills and Campbell",05-07-2023,140.75,91.45,107.34
+3807,Hex Nut,Karen Lewis,"Russell, Reese and Dennis",06-07-2023,78.31,53.53,55.99
+9800,Hex Nut,Deanna King,"Chambers, Perkins and Merritt",06-07-2023,280.46,188.65,210.73
+8853,Hex Nut,Kimberly Miller,"Wallace, Ford and Smith",07-07-2023,460.35,316.41,338.26
+4894,Hex Nut,Matthew Livingston,Johnson PLC,08-07-2023,444.81,276.55,350.97
+6620,Hex Nut,Anthony Walker,Roberts-Jones,08-07-2023,400.07,264.7,288.08
+3898,Hex Nut,Gary Williams,Herrera Group,09-07-2023,282.31,174.06,220.57
+4612,Hex Nut,Paul Perry,Decker Inc,10-07-2023,208.88,146.18,148.85
+4953,Hex Nut,Jordan Ibarra,Hensley-Taylor,10-07-2023,252.25,154.47,181.44
+9676,Hex Nut,April White,Jackson-Rasmussen,10-07-2023,122.89,80.47,96.69
+2983,Hex Nut,Nancy Mclaughlin,"Garcia, Ruiz and Scott",10-07-2023,218.11,143.98,173.32
+2122,Hex Nut,Sarah Fernandez,Murray LLC,11-07-2023,334.4,211.98,255.8
+2850,Hex Nut,Nicholas Middleton,Lucero-Wright,11-07-2023,347.98,239.29,267.35
+8539,Hex Nut,Jacob Wilson,Hall and Sons,11-07-2023,88.91,56.81,66
+8393,Hex Nut,Lindsey Burgess,Frazier Group,12-07-2023,295.31,204.32,210.05
+2439,Hex Nut,Blake Tyler,"Zamora, Hicks and Oneal",12-07-2023,203.87,129.4,156.28
+4463,Hex Nut,Sara Gonzalez,Gross Group,12-07-2023,253.76,156.95,180.97
+5752,Hex Nut,Vicki Lopez,"Mcfarland, Lee and Garner",12-07-2023,384.96,254.06,303.99
+8747,Hex Nut,Lauren Lynn MD,Johnson-Morrow,12-07-2023,112.19,67.79,84.83
+8560,Hex Nut,Sheila Crawford,Barnes Inc,13-07-2023,344.12,234.85,271.96
+4448,Hex Nut,Margaret Brown,Dawson LLC,13-07-2023,316.15,196.25,224.68
+7628,Hex Nut,Nicholas Nelson,Lopez Group,13-07-2023,135.44,91.6,97.51
+1791,Hex Nut,Christina Moore,Snyder-Morris,13-07-2023,107.96,74.03,76.93
+1223,Hex Nut,Jason Kramer,Savage-Stark,14-07-2023,164.93,104.43,121.15
+7322,Hex Nut,Shirley Lang,Coleman Ltd,14-07-2023,405,265.88,305.18
+1772,Hex Nut,Anthony Gonzales,Walker LLC,14-07-2023,477.67,307.37,354.54
+5106,Hex Nut,Jo Orozco,Duarte Ltd,15-07-2023,123.14,78.14,87.23
+2589,Hex Nut,Dawn Chavez,"Watson, Underwood and Webster",15-07-2023,406.12,251.06,302.19
+5905,Hex Nut,Jeffrey Perez,Carter LLC,15-07-2023,91.44,58.86,68.67
+1211,Hex Nut,Rebecca Hardy,"Sparks, Brooks and Herrera",16-07-2023,183.47,126.35,140.98
+6768,Hex Nut,Joe Martin,Nelson-Clark,16-07-2023,305.3,184.9,230.09
+8425,Hex Nut,Nicole Edwards,Price LLC,16-07-2023,80.32,49.67,62.29
+5215,Hex Nut,Maria Roberson,"Sanchez, Combs and Wagner",16-07-2023,102.67,67.76,73.74
+5571,Hex Nut,Richard Nielsen,Shelton Inc,17-07-2023,267.72,178.74,199.05
+5321,Hex Nut,Jordan Riddle,"Chen, David and Smith",17-07-2023,213.75,147.56,167.67
+5607,Hex Nut,Billy Castro,"Fowler, Jones and Montgomery",19-07-2023,203.31,125.9,149.85
+3975,Hex Nut,Amy Ashley,Brown Group,19-07-2023,339.77,207.22,253.54
+5909,Hex Nut,Erica Mclaughlin,West-Doyle,19-07-2023,366.7,239.2,263.95
+5595,Hex Nut,Casey Daniels,Watson Ltd,20-07-2023,341.79,220.73,249.64
+7810,Hex Nut,Dennis Mack,"Young, Smith and Roberts",20-07-2023,431.58,299.2,345.24
+4528,Hex Nut,Leslie Davidson,Cook Inc,20-07-2023,459.94,276.27,355.98
+7071,Hex Nut,Rick Arnold,"Pace, Fischer and Golden",20-07-2023,144.53,99.13,102.9
+7182,Hex Nut,Robert Hill,"Marshall, Hayes and Burton",21-07-2023,494.75,336.62,386.29
+9370,Hex Nut,Christian Navarro,"Rodriguez, Morgan and Harris",21-07-2023,276.77,178.73,208.99
+8714,Hex Nut,Carolyn Russell,Garcia PLC,22-07-2023,399.64,272.44,319.25
+8394,Hex Nut,Deborah Patel,Martinez Ltd,23-07-2023,310.07,192.53,243.37
+2076,Hex Nut,Mark Smith,"West, Daniels and Colon",24-07-2023,452.6,301.82,345.07
+2653,Hex Nut,Cory Briggs,Walker-Blackburn,24-07-2023,197.17,129.88,152.36
+6028,Hex Nut,Brandon Zavala,"Hall, Figueroa and Newman",25-07-2023,264.65,180.24,208.03
+5861,Hex Nut,Madison Cox,"Wong, Lopez and Schultz",25-07-2023,197.25,130.62,138.72
+2043,Hex Nut,John Yoder,Sims Ltd,25-07-2023,308.22,203.03,223.91
+3187,Hex Nut,Zachary Williams,Krueger Group,26-07-2023,87.96,53.31,67.19
+2980,Hex Nut,Stephanie Potts,Vargas and Sons,26-07-2023,464.06,283.03,350.19
+5458,Hex Nut,Christopher Rodriguez,May-Juarez,27-07-2023,282.69,183.17,198.08
+8297,Hex Nut,Christopher Steele,Carter-Schneider,29-07-2023,213.58,131.93,151
+5040,Hex Nut,Sara Gonzalez,"Buckley, Cooper and Adams",29-07-2023,86.01,57.14,63.52
+8312,Hex Nut,Brian King,"Parks, Best and Li",29-07-2023,84.53,54.62,60.46
+5060,Hex Nut,Jimmy Roy,Barr-Moore,29-07-2023,411.96,282.41,307.94
+7057,Hex Nut,Angel Andrade,"Riley, Shaw and Warren",30-07-2023,498.26,304.98,360.32
+7374,Hex Nut,Alexandra Johns,"Mora, Jenkins and Duncan",30-07-2023,82.81,51.15,63.37
+7339,Hex Nut,Jason Mccoy,Martinez and Sons,31-07-2023,353.13,220.08,271.53
+3405,Hex Nut,Jon Davis,Allen Group,31-07-2023,457.84,297.62,354.29
+2084,Hex Nut,Donald Stewart,Velazquez PLC,31-07-2023,178.48,122.33,129.51
+8485,Hex Nut,Whitney Quinn,Jackson-Baker,01-08-2023,394.74,245.43,283.62
+2631,Hex Nut,Anthony Graves,Wood and Sons,01-08-2023,129.58,87.43,91.96
+1483,Hex Nut,Hunter Baldwin,Tyler-Cline,01-08-2023,352.6,246.52,264.56
+4007,Hex Nut,Robert Lloyd,Lawson Inc,01-08-2023,63.19,39.78,46.4
+6799,Hex Nut,John Robertson,Hall and Sons,02-08-2023,248.71,155.73,185.73
+5538,Hex Nut,Jennifer Chandler,Rivas-Holland,02-08-2023,100.28,69.28,78.16
+2690,Hex Nut,Anthony Hill,Shelton PLC,03-08-2023,272.41,182.45,203.61
+1003,Hex Nut,Sara Greene,Brandt-Waller,04-08-2023,224.61,138.82,169.28
+7788,Hex Nut,Jennifer Cuevas,Dyer-Mercado,05-08-2023,225.22,156.53,161.07
+4487,Hex Nut,Angela Hayes,Ryan Inc,05-08-2023,280.83,191.8,221.82
+9431,Hex Nut,Kristen White,"Smith, Erickson and Rodriguez",06-08-2023,403.46,281.36,309.63
+5108,Hex Nut,Robert Padilla,"Garza, Lewis and Stephens",06-08-2023,259.19,160.15,188.11
+3878,Hex Nut,Hunter Rodriguez,"Ward, Rodriguez and Lopez",06-08-2023,134.51,94.08,103.3
+6796,Hex Nut,Craig Zuniga,"Campbell, Hendricks and Atkins",07-08-2023,156.93,101.46,118.13
+1169,Hex Nut,Caleb Jones,Pratt-Thomas,07-08-2023,179.26,112.64,135.74
+2948,Hex Nut,David Delgado,Brown-Petersen,07-08-2023,210.99,129.03,161.3
+6606,Hex Nut,Kimberly Valentine,Francis-Baker,07-08-2023,401.85,254.17,316.8
+2659,Hex Nut,Jay Johnson,"Roman, Juarez and Rodriguez",07-08-2023,58.21,37.49,42.33
+2103,Hex Nut,Katelyn Solis,Parks LLC,07-08-2023,257.66,157.02,200.13
+5879,Hex Nut,Maria Mcdowell,Ruiz Ltd,08-08-2023,259.31,171.63,187.8
+3915,Hex Nut,Melissa Adams,"Diaz, Wilkerson and Avila",08-08-2023,188.18,127.27,137.38
+5301,Hex Nut,Kathleen Burns,Evans and Sons,08-08-2023,240.87,150.01,176.01
+4485,Hex Nut,Joseph Poole,Potts Ltd,08-08-2023,317.5,203.61,239.92
+1007,Hex Nut,Susan Reid,Moore Ltd,09-08-2023,133.21,86.14,94.6
+6439,Hex Nut,Michael Washington,"Lambert, Sandoval and Simmons",09-08-2023,295.46,181.77,209.97
+6964,Hex Nut,Stephen Cummings,"Brown, Lane and Mcdonald",11-08-2023,89.4,56.62,64.26
+9154,Hex Nut,Steven Murphy,Williams-Brooks,11-08-2023,222.37,142.66,173
+1510,Hex Nut,Calvin Li,Campos LLC,12-08-2023,86.55,54.98,65.11
+4449,Hex Nut,Cynthia Jones,"Dixon, Elliott and Riley",13-08-2023,97.2,62.06,71.43
+7455,Hex Nut,Scott Ball,"Wiley, Rodriguez and Swanson",13-08-2023,210.83,142.14,150.11
+5344,Hex Nut,Jessica Hill,"Payne, Miller and Woodward",13-08-2023,432.03,267.52,303.32
+2178,Hex Nut,Dr. Stephanie Harding,Bishop-Mason,14-08-2023,346.25,231.28,252.47
+8379,Hex Nut,Donna Taylor,Ross LLC,14-08-2023,64.01,44.68,47.63
+4310,Hex Nut,Ryan Fuentes,Hawkins Group,14-08-2023,193.81,133.12,138.94
+3679,Hex Nut,Keith Cummings,"Alvarez, Prince and Case",14-08-2023,346.63,223.08,256.44
+7498,Hex Nut,Bradley Rogers,"Stuart, Ward and Webb",14-08-2023,213.1,134.58,155.35
+4158,Hex Nut,Kevin Thomas,"Caldwell, Pugh and York",16-08-2023,372.24,232.97,260.77
+1822,Hex Nut,William Carlson,"Robinson, Jones and King",16-08-2023,293.51,199.64,222.65
+6477,Hex Nut,Susan Humphrey,Huang-Sexton,16-08-2023,396.81,257.08,295.95
+4960,Hex Nut,Maria Sanchez,Crawford Inc,16-08-2023,498.64,312.55,388.41
+6087,Hex Nut,Patricia Gonzalez,Richards-Phillips,17-08-2023,201.44,136.87,144.08
+4294,Hex Nut,Mrs. Susan Howell DDS,Hayes Group,17-08-2023,52.57,32.63,39.33
+7040,Hex Nut,Robert Robinson,"Hernandez, Harrell and Mitchell",17-08-2023,140.01,86.08,103.8
+7866,Hex Nut,Sarah Johnson,"Church, Cummings and May",17-08-2023,292.12,183.86,221.78
+1251,Hex Nut,Richard Henry,"Pacheco, Alvarez and Jordan",17-08-2023,186.3,130.13,136.08
+3991,Hex Nut,Michael Wade,"Becker, Michael and Ramirez",17-08-2023,323.64,196.6,234.85
+1474,Hex Nut,Christine Rodriguez,"Stanley, Lindsey and Schultz",18-08-2023,266.39,161.52,202
+1591,Hex Nut,Samuel Castillo,"Wilson, Mcbride and Baker",18-08-2023,326.37,200.59,236.08
+7937,Hex Nut,Brian Jensen,Ramirez-Smith,18-08-2023,409.32,264.58,311.35
+5174,Hex Nut,Brooke Hamilton,Gomez-Li,19-08-2023,72.17,48.06,51.49
+2005,Hex Nut,Erin Schneider,Cooper-Hubbard,19-08-2023,353.47,246.6,266.35
+9061,Hex Nut,Thomas Fields,Moreno and Sons,19-08-2023,193.16,117.78,136.13
+6514,Hex Nut,Justin Anderson,King-Collins,20-08-2023,232.19,142.8,163.06
+9301,Hex Nut,Carrie Roberts,"Cooke, Powell and Maldonado",20-08-2023,93.62,60.64,73.01
+4891,Hex Nut,Deborah Barnes,Anderson-Clark,21-08-2023,86.83,52.64,65.18
+3970,Hex Nut,Jason Peterson,Aguilar-Ellis,21-08-2023,209.21,145.13,164.54
+4679,Hex Nut,Zachary Mata,Jefferson-Petersen,22-08-2023,284.51,174.42,224.55
+3735,Hex Nut,Theresa Gomez,Perez-Knight,22-08-2023,346.17,209.48,261.04
+4327,Hex Nut,Rita Taylor MD,"Cline, Lozano and York",22-08-2023,148.09,103.66,106.44
+9711,Hex Nut,Travis Maynard,Martinez LLC,23-08-2023,358.38,248.15,282.1
+6842,Hex Nut,Donald Singh,Davis LLC,23-08-2023,296.51,194.59,218.47
+2917,Hex Nut,Darlene Vaughn,"Combs, Johnson and Harvey",23-08-2023,324.93,217.76,237.74
+1692,Hex Nut,Kathryn Williamson,King-Grant,23-08-2023,485.35,297.39,361.15
+1289,Hex Nut,John Frey,Brown PLC,24-08-2023,72.59,44.86,54.73
+6627,Hex Nut,Rebecca Herrera,James PLC,24-08-2023,320.88,194.67,229.67
+6464,Hex Nut,Steven Ritter PhD,"Bauer, Johnson and Moore",24-08-2023,214.55,148.25,168.31
+1165,Hex Nut,Michael Wright,Steele-Brown,26-08-2023,274.11,183.01,208.41
+2900,Hex Nut,Nicole Smith,Ray LLC,26-08-2023,263.26,159.43,204.11
+7752,Hex Nut,Stephen Aguirre,"Knapp, Romero and Sanchez",26-08-2023,229.88,160.24,171.84
+7442,Hex Nut,Sophia Edwards,"Casey, Harrington and Lewis",26-08-2023,58.98,40.1,43.8
+7418,Hex Nut,Tonya Foster,Daniel Inc,26-08-2023,217.36,142.88,172.57
